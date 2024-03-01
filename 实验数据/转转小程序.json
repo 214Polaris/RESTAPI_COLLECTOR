@@ -1,0 +1,996 @@
+[
+    {
+        "Domain": "lego.zhuanzhuan.com",
+        "Path": "/page/mark-p",
+        "Params": [
+            {
+                "key": "cookieid",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "clientip",
+                "value": ""
+            },
+            {
+                "key": "timestamp",
+                "value": "1700571685248"
+            },
+            {
+                "key": "city",
+                "value": ""
+            },
+            {
+                "key": "appid",
+                "value": "ZHUANZHUAN"
+            },
+            {
+                "key": "devid",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "ua",
+                "value": ""
+            },
+            {
+                "key": "version",
+                "value": ""
+            },
+            {
+                "key": "os",
+                "value": ""
+            },
+            {
+                "key": "osv",
+                "value": ""
+            },
+            {
+                "key": "lat",
+                "value": ""
+            },
+            {
+                "key": "lon",
+                "value": ""
+            },
+            {
+                "key": "resolution",
+                "value": ""
+            },
+            {
+                "key": "model",
+                "value": ""
+            },
+            {
+                "key": "clienttime",
+                "value": "1700571685248"
+            },
+            {
+                "key": "_t",
+                "value": "1700571685248"
+            },
+            {
+                "key": "actiontype",
+                "value": "R4727"
+            },
+            {
+                "key": "pagetype",
+                "value": "LengthOfStay"
+            },
+            {
+                "key": "backup",
+                "value": "{'token': 'wt-oHQwN0VnIuoLTdepbOsTKmE4Klys', 'uid': '1726938504325489664', 't': '103', 'endType': 'miniprogram', 'zztype': 'WA', 'zznative': 0, 'refpagetype': '', 'refpagequery': '', 'refsubpageID': '', 'refsectionId': '', 'refsortId': '', 'url': 'pages/index/home', 'eventduration': '10.74', 'stayUserTime': True}"
+            }
+        ]
+    },
+    {
+        "Domain": "lego.zhuanzhuan.com",
+        "Path": "/page/mark",
+        "Params": [
+            {
+                "key": "cookieid",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "actiontype",
+                "value": "INDEX-GOODSCARD-SHOW"
+            },
+            {
+                "key": "pagetype",
+                "value": "METRIC"
+            },
+            {
+                "key": "appid",
+                "value": "ZHUANZHUAN"
+            },
+            {
+                "key": "_t",
+                "value": "1700571690268"
+            },
+            {
+                "key": "backup",
+                "value": "%7B%22zzfrom%22%3A%22%22%2C%22zzpage%22%3A%22%22%2C%22zztype%22%3A%22WA%22%2C%22zznative%22%3A0%2C%22uid%22%3A%221726938504325489664%22%2C%22appid%22%3A%22103%22%2C%22channel%22%3A%22none%22%2C%22pageChannel%22%3A%22none%22%2C%22scene%22%3A1089%2C%22v%22%3A%227.4.22%22%2C%22endType%22%3A%22wxapplet%22%2C%22page%22%3A%22pages%2Findex%2Fhome%22%2C%22metric%22%3A%22zF1xkXWschwhwdRpiWU3cg11121bkr%22%2C%22token%22%3A%22wt-oHQwN0VnIuoLTdepbOsTKmE4Klys%22%2C%22postId%22%3A%22%22%2C%22sortId%22%3A2%2C%22sortName%22%3A%229%E6%88%90%E6%96%B0%20%E7%BA%A2%E7%B1%B3%20Redmi%20Buds%204%20%E9%9D%92%E6%98%A5%E7%89%88%20%E6%95%B4%E5%A5%97%20%E6%99%B4%E9%9B%AA%E7%99%BD%22%2C%22infoId%22%3A%221726941307056017920%22%2C%22firsttab%22%3A%221%22%7D"
+            },
+            {
+                "key": "from",
+                "value": "1089"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e6ffaeca109c7eca68907959f2f724e8fa7273d7&UID=1726938504325489664&CT=1700569201208&SF=ZHUANZHUAN&SCT=1700572801208&V=2&ET=1703161201208&AP=103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "version",
+                "value": "7.4.22"
+            },
+            {
+                "key": "v",
+                "value": "7.4.22"
+            },
+            {
+                "key": "model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "osType",
+                "value": "android"
+            },
+            {
+                "key": "zzreferer",
+                "value": "uZZWAMain%3A%2F%2Fpages%2Findex%2Fhome"
+            },
+            {
+                "key": "id58",
+                "value": "CigAhGVco4V0OlxeGFCMAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e6ffaeca109c7eca68907959f2f724e8fa7273d7&UID=1726938504325489664&CT=1700569201208&SF=ZHUANZHUAN&SCT=1700572801208&V=2&ET=1703161201208&AP=103"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/v2/zzinfoshow/getfeedflowinfo",
+        "Params": [
+            {
+                "key": "feedFlowType",
+                "value": "WXHomeContinent"
+            },
+            {
+                "key": "feedKeywords",
+                "value": "{\"id\":\"1\",\"tabCateId\":\"0\",\"pgCates\":[{\"pgCateId\":101,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":119,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000016,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000186,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000170,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":107,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":111,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":114,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000354,\"pgBrandId\":0,\"pgModelId\":0}],\"switcherFilter\":\"0\"}"
+            },
+            {
+                "key": "pageNum",
+                "value": "2"
+            },
+            {
+                "key": "pageSize",
+                "value": "10"
+            },
+            {
+                "key": "lastTime",
+                "value": "1700571675284"
+            },
+            {
+                "key": "from",
+                "value": ""
+            },
+            {
+                "key": "miniAppVersion",
+                "value": "9.5.0"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e6ffaeca109c7eca68907959f2f724e8fa7273d7&UID=1726938504325489664&CT=1700569201208&SF=ZHUANZHUAN&SCT=1700572801208&V=2&ET=1703161201208&AP=103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "version",
+                "value": "7.4.22"
+            },
+            {
+                "key": "v",
+                "value": "7.4.22"
+            },
+            {
+                "key": "model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "osType",
+                "value": "android"
+            },
+            {
+                "key": "zzreferer",
+                "value": "uZZWAMain%3A%2F%2Fpages%2Findex%2Fhome"
+            },
+            {
+                "key": "id58",
+                "value": "CigAhGVco4V0OlxeGFCMAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e6ffaeca109c7eca68907959f2f724e8fa7273d7&UID=1726938504325489664&CT=1700569201208&SF=ZHUANZHUAN&SCT=1700572801208&V=2&ET=1703161201208&AP=103"
+            }
+        ]
+    },
+    {
+        "Domain": "pic3.zhuanstatic.com",
+        "Path": "/zhuanzh/3ba93ba2-e419-47b0-82ef-19094d569302.png",
+        "Params": []
+    },
+    {
+        "Domain": "pic5.zhuanstatic.com",
+        "Path": "/zhuanzh/a0d308a0-bb0b-4031-b93b-8aef36706f55.png",
+        "Params": []
+    },
+    {
+        "Domain": "pic1.zhuanstatic.com",
+        "Path": "/zhuanzh/1dd3e71f-ab25-4306-b741-3abc1940b6e1.jpg",
+        "Params": []
+    },
+    {
+        "Domain": "pic6.zhuanstatic.com",
+        "Path": "/zhuanzh/192183be-3cd2-43cd-943b-32be8606598b.png",
+        "Params": []
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/trade/common_pages/envelope-list",
+        "Params": [
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "__iswa",
+                "value": "1"
+            },
+            {
+                "key": "__model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "__appId",
+                "value": "wx9df7443125e6f01a"
+            },
+            {
+                "key": "__t",
+                "value": "103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT%3D04341af5e5c7144db9f5a81d0ee9848857ffc621%26UID%3D1726938504325489664%26CT%3D1700570011148%26SF%3DZHUANZHUAN%26SCT%3D1700573611148%26V%3D2%26ET%3D1703162011148%26AP%3D103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "isWASet",
+                "value": "1"
+            },
+            {
+                "key": "__wa_time_stamp",
+                "value": "1700571696650"
+            },
+            {
+                "key": "idzz",
+                "value": "CigADGVcoF8444GyF8j3Ag=="
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "zz_t",
+                "value": "103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2FMzhuanzhuan%2Fzhuanzhuan%2Fzzactivity%2Fmagic%2F62981b3ead582a006595aa0a%2Findex.html"
+            },
+            {
+                "key": "id58",
+                "value": "CigAD2VcoGEylS9fFw+lAg=="
+            },
+            {
+                "key": "PPU",
+                "value": ""
+            },
+            {
+                "key": "ZZU",
+                "value": ""
+            },
+            {
+                "key": "uid",
+                "value": ""
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "[{\"type\":\"load\",\"href\":\"m.zhuanzhuan.com%2FMzhuanzhuan%2Fzhuanzhuan%2Fzzactivity%2Fmagic%2F62981b3ead582a006595aa0a%2Findex.html\",\"time\":1700570871194}]"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "expires",
+                "value": "1700657272206"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"WMF3756\",\"refpagequery\":\"needNotAuth=1&__iswa=1&__model=Pixel%25203&SDKVersion=2.27.3&__appId=wx9df7443125e6f01a&__t=103&tk=wt-oHQwN0VnIuoLTdepbOsTKmE4Klys&channelid=none&isWASet=1&__wa_time_stamp=1700570867512\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getmhostlist",
+        "Params": [
+            {
+                "key": "callback",
+                "value": "fetchUrlDomainWhiteListR97DB7ID50RSg5BQkVsvOYmDfU607qYR"
+            },
+            {
+                "key": "mixValidate",
+                "value": "1"
+            },
+            {
+                "key": "idzz",
+                "value": "CigADGVcoF8444GyF8j3Ag=="
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "zz_t",
+                "value": "103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "id58",
+                "value": "CigAD2VcoGEylS9fFw+lAg=="
+            },
+            {
+                "key": "ZZU",
+                "value": ""
+            },
+            {
+                "key": "uid",
+                "value": ""
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "[{\"type\":\"load\",\"href\":\"m.zhuanzhuan.com%2FMzhuanzhuan%2Fzhuanzhuan%2Fzzactivity%2Fmagic%2F62981b3ead582a006595aa0a%2Findex.html\",\"time\":1700570871194}]"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "expires",
+                "value": "1700658099982"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/npsapi/getbaichuanentrance",
+        "Params": []
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getMyRedList",
+        "Params": [
+            {
+                "key": "queryExpireCount",
+                "value": "true"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getMyCouponList",
+        "Params": [
+            {
+                "key": "pageNumber",
+                "value": "1"
+            },
+            {
+                "key": "pageSize",
+                "value": "10"
+            },
+            {
+                "key": "status",
+                "value": "1"
+            },
+            {
+                "key": "redVersion",
+                "value": "V2_POSTAGE_RED"
+            },
+            {
+                "key": "redSource",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/favicon.ico",
+        "Params": [
+            {
+                "key": "idzz",
+                "value": "CigADGVcoF8444GyF8j3Ag=="
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "zz_t",
+                "value": "103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "id58",
+                "value": "CigAD2VcoGEylS9fFw+lAg=="
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "[{\"type\":\"load\",\"href\":\"m.zhuanzhuan.com%2FMzhuanzhuan%2Fzhuanzhuan%2Fzzactivity%2Fmagic%2F62981b3ead582a006595aa0a%2Findex.html\",\"time\":1700570871194}]"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "expires",
+                "value": "1700658099982"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "ZZU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/system/ZZaftersale/allAfterSaleList",
+        "Params": [
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "__iswa",
+                "value": "1"
+            },
+            {
+                "key": "__model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "__appId",
+                "value": "wx9df7443125e6f01a"
+            },
+            {
+                "key": "__t",
+                "value": "103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT%3D04341af5e5c7144db9f5a81d0ee9848857ffc621%26UID%3D1726938504325489664%26CT%3D1700570011148%26SF%3DZHUANZHUAN%26SCT%3D1700573611148%26V%3D2%26ET%3D1703162011148%26AP%3D103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "isWASet",
+                "value": "1"
+            },
+            {
+                "key": "__wa_time_stamp",
+                "value": "1700571706433"
+            },
+            {
+                "key": "idzz",
+                "value": "CigADGVcoF8444GyF8j3Ag=="
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "zz_t",
+                "value": "103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "id58",
+                "value": "CigAD2VcoGEylS9fFw+lAg=="
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "ZZU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "[{\"type\":\"load\",\"href\":\"m.zhuanzhuan.com%2FMzhuanzhuan%2Fzhuanzhuan%2Fzzactivity%2Fmagic%2F62981b3ead582a006595aa0a%2Findex.html\",\"time\":1700570871194},{\"type\":\"load\",\"href\":\"m.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list\",\"time\":1700571701940}]"
+            },
+            {
+                "key": "expires",
+                "value": "1700658102956"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/v2/zzinfoshow/mycontinentfeedkeywords",
+        "Params": [
+            {
+                "key": "from",
+                "value": "1089"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "version",
+                "value": "7.4.22"
+            },
+            {
+                "key": "v",
+                "value": "7.4.22"
+            },
+            {
+                "key": "model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "osType",
+                "value": "android"
+            },
+            {
+                "key": "zzreferer",
+                "value": "uZZWAMain%3A%2F%2Fpages%2Findex%2Fhome"
+            },
+            {
+                "key": "id58",
+                "value": "CigAhGVco4V0OlxeGFCMAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "requireMobileCheckRes",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getsearchconfigdata",
+        "Params": [
+            {
+                "key": "from",
+                "value": "1089"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "version",
+                "value": "7.4.22"
+            },
+            {
+                "key": "v",
+                "value": "7.4.22"
+            },
+            {
+                "key": "model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "osType",
+                "value": "android"
+            },
+            {
+                "key": "zzreferer",
+                "value": "uZZWAMain%3A%2F%2Fpages%2Findex%2Fhome"
+            },
+            {
+                "key": "id58",
+                "value": "CigAhGVco4V0OlxeGFCMAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "requireMobileCheckRes",
+                "value": "false"
+            }
+        ]
+    },
+    {
+        "Domain": "pic1.zhuanstatic.com",
+        "Path": "/zhuanzh/a0b6e981-7cea-470b-a2bb-e30425fa12e5.png",
+        "Params": []
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/query",
+        "Params": []
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/platform/newCycle/index.html",
+        "Params": [
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "channel",
+                "value": "main-cartTab"
+            },
+            {
+                "key": "__waneedlocation",
+                "value": "1"
+            },
+            {
+                "key": "__iswa",
+                "value": "1"
+            },
+            {
+                "key": "__model",
+                "value": "Pixel%203"
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "__appId",
+                "value": "wx9df7443125e6f01a"
+            },
+            {
+                "key": "__t",
+                "value": "103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT%3D04341af5e5c7144db9f5a81d0ee9848857ffc621%26UID%3D1726938504325489664%26CT%3D1700570011148%26SF%3DZHUANZHUAN%26SCT%3D1700573611148%26V%3D2%26ET%3D1703162011148%26AP%3D103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "isWASet",
+                "value": "1"
+            },
+            {
+                "key": "__wa_time_stamp",
+                "value": "1700571762470"
+            },
+            {
+                "key": "idzz",
+                "value": "CigADGVcoF8444GyF8j3Ag=="
+            },
+            {
+                "key": "t",
+                "value": "103"
+            },
+            {
+                "key": "zz_t",
+                "value": "103"
+            },
+            {
+                "key": "tk",
+                "value": "wt-oHQwN0VnIuoLTdepbOsTKmE4Klys"
+            },
+            {
+                "key": "id58",
+                "value": "CigAD2VcoGEylS9fFw+lAg=="
+            },
+            {
+                "key": "SDKVersion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "channelid",
+                "value": "none"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "ZZU",
+                "value": "TT=04341af5e5c7144db9f5a81d0ee9848857ffc621&UID=1726938504325489664&CT=1700570011148&SF=ZHUANZHUAN&SCT=1700573611148&V=2&ET=1703162011148&AP=103"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "expires",
+                "value": "1700658102956"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2FZZaftersale%2FallAfterSaleList%22%2C%22time%22%3A1700571721806%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fsystem%252FZZaftersale%252FallAfterSaleList%22%2C%22time%22%3A1700571726251%7D%5D"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_none"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fact.zhuanzhuan.com%2Fplatform%2Fzz-platform-pages%2FprofilePage"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22F1303%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            }
+        ]
+    },
+    {
+        "Domain": "feconf.zhuanzhuan.com",
+        "Path": "/feconf/platform",
+        "Params": [
+            {
+                "key": "keys",
+                "value": "c2c-home-image-position"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getFeedFlowInformation",
+        "Params": [
+            {
+                "key": "request",
+                "value": "{\"feedFlowType\":\"homeRecommend\",\"rstmark\":1700571764888,\"lastTime\":1700571765503,\"pageNum\":1,\"pageSize\":10}"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getNewC2cHomeTabConf",
+        "Params": [
+            {
+                "key": "tabType",
+                "value": "recommend"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getPersonalizedRecommendationSwitch",
+        "Params": []
+    }
+]

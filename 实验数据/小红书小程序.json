@@ -1,0 +1,26 @@
+[
+    {
+        "Domain": "sdk-open-phone.getui.com",
+        "Path": "/api.php",
+        "Params": [
+            {
+                "key": "format",
+                "value": "json"
+            },
+            {
+                "key": "t",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "Domain": "sns-avatar-qc.xhscdn.com",
+        "Path": "/avatar/1040g2jo30non3h2m7k005nu1rtvgbn1knkf2c80",
+        "Params": [
+            {
+                "key": "imageView2/2/w/80/format/jpg",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Domain": "sdk-open-phone.getui.com",
+        "Path": "/api.php",
+        "Params": [
+            {
+                "key": "format",
+                "value": "json"
+            },
+            {
+                "key": "t",
+                "value": "1"
+            },
+            {
+                "key": "d",
+                "value": "92197D1DD909EC22AC048D76CC57251F2B4DC0AAEFED11A448E44AACE8139A7606FF45F811A8"
+            },
+            {
+                "key": "k",
+                "value": "3"
+            },
+            {
+                "key": "nm\u0010\u001d\u0000c~#\u0007X\u0014\n\u0000Bd!7-P\n\u0011\u0007\u0015Z\t\r\u0003:",
+                "value": "['H\\tm\\x01*>} $%\\x04D$\u0741^A#jN>\\x06}[2k3Ia\\x7f\\x05\\x05?\\\\\\x1f\\x06nv)\\x14\\x0bE\\x06I\\'mi\\x11UVDq\\x08{4o[\\n\\x1f\u021a\u02a8\u0158\\x01>%\\x15-a\\x15\u049c[H\\x1eJ\\x02U:\\x01{D7\u0105,f0]g<v)Z\u07409\\x1d5\\x18\\x04\\x01T U\\x7fvF[;dm\u0139\\x06\"T']"
+            }
+        ]
+    },
+    {
+        "Domain": "sns-avatar-qc.xhscdn.com",
+        "Path": "/avatar/1040g2jo30non3h2m7k005nu1rtvgbn1knkf2c80",
+        "Params": [
+            {
+                "key": "imageView2/2/w/120/format/jpg",
+                "value": ""
+            }
+        ]
+    }
+]

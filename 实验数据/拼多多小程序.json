@@ -1,0 +1,171 @@
+{
+ "Cluster1": [],
+ "Cluster2": [
+  {
+   "Domain": "t00img.yangkeduo.com",
+   "Path": "/goods/2020-04-09/7f33aceacc09afda0e829c4c750ccbc7.gif",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "CkiwlWVclyovFgBv6yMnAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:05:57"
+  },
+  {
+   "Domain": "commimg.pddpic.com",
+   "Path": "/oms_img_ng/2023-08-01/4ebf26ec-db08-44f0-a655-d9e2107034bd.png",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:57"
+  },
+  {
+   "Domain": "commimg.pddpic.com",
+   "Path": "/oms_img_ng/2023-08-04/9b4b353d-326b-4689-a905-34fad7b2702e.gif",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:57"
+  },
+  {
+   "Domain": "at.alicdn.com",
+   "Path": "/t/c/font_1455861_ji7f1eg86k.ttf",
+   "Params": [
+    {
+     "key": "t",
+     "value": "1679380763078"
+    }
+   ],
+   "Timestamp": "2023-12-03 15:05:57"
+  },
+  {
+   "Domain": "xcxapp.pinduoduo.com",
+   "Path": "/compose/vtx/index/profile",
+   "Params": [
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "xcx",
+     "value": "20161201"
+    },
+    {
+     "key": "xcx_version",
+     "value": "v8.3.24"
+    },
+    {
+     "key": "xcx_hash",
+     "value": "1701588938347jZOUt4J5RpYWpZD1"
+    }
+   ],
+   "Timestamp": "2023-12-03 15:05:57"
+  },
+  {
+   "Domain": "commimg.pddpic.com",
+   "Path": "/oms_img_ng/2022-12-29/d028f122-182f-4556-8d64-18553fa9d873.png",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:57"
+  }
+ ],
+ "Cluster3": [
+  {
+   "Domain": "xcxapp.pinduoduo.com",
+   "Path": "/backend/icon/personal",
+   "Params": [
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "xcx",
+     "value": "20161201"
+    },
+    {
+     "key": "xcx_version",
+     "value": "v8.3.24"
+    },
+    {
+     "key": "xcx_hash",
+     "value": "1701588946427hOvUL3dGTsqI40ct"
+    },
+    {
+     "key": "xcx_trace_id",
+     "value": "15429648407490834"
+    },
+    {
+     "key": "scene_id",
+     "value": "1089"
+    },
+    {
+     "key": "anti_content",
+     "value": "3akAfa5e-eCE60VEs4dXK9yXqE8nrPoXpB8X09jOppwnpT8X0_yHG9Yn5XaXIPanG4oiBQHYecy50yP7pGnTHi9qNZZQ0ghK_C3Xjv_u_Y9NXdwXo3"
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "avatar3.pddpic.com",
+   "Path": "/avatar/default/2.png",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "xcxcdn.yangkeduo.com",
+   "Path": "/mini_program/personal/personal-month-card-2.png",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "CkiwlWVclyovFgBv6yMnAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "xcxcdn.yangkeduo.com",
+   "Path": "/admin_gateway/upload/common/oms/personal_icon/unoU3jsNVkaHq2Sr0gwL5PlD_1550384247070.png",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "CkiwlWVclyovFgBv6yMnAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "xcxcdn.yangkeduo.com",
+   "Path": "/admin_gateway/upload/common/oms/personal_icon/gQOcYhvfKMmcR_NhH-stlOkI_1550384296743.png",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "CkiwlWVclyovFgBv6yMnAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "xcxcdn.yangkeduo.com",
+   "Path": "/admin_gateway/upload/common/oms/personal_icon/Vi7lQNPtZqTD-vuSlk3DXuZh_1550384203225.png",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "CkiwlWVclyovFgBv6yMnAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  },
+  {
+   "Domain": "res.servicewechat.com",
+   "Path": "/weapp/release_patch_encrypt/74_HyximyyvWWpNgY7wZa63aTr8KbGkToJm53fIa95fA0VN3Jck6dy-u6sD3gv66mMZ3uSHksX4s0BYBXp9",
+   "Params": [
+    {
+     "key": "rand",
+     "value": "2118226683"
+    },
+    {
+     "key": "pass_key",
+     "value": "EAd-OPtOB0qnPO4NRiR0RK7EWIcqxNuzFceB83A3uW6NgLf1_yReyhZnb9LEZ9hTxbsPizwwussjD_VgufVX-5CTb8oIJZ_qjRynV4xL9Byj8b7v6NOCPqeYM4OcFgrzPEMcRnRrvrOJiKDbOUpVIgwxCL-XSfqFxt1TL2Hq5AgOjf8qMMLiE9rsnfyvsLnCKXmU7hBy91jkhHvLhpeDV4Z5e6_168z4H8P2UTlMX2g~"
+    }
+   ],
+   "Timestamp": "2023-12-03 15:06:05"
+  }
+ ],
+ "Cluster4": []
+}

@@ -1,0 +1,399 @@
+[
+    {
+        "Domain": "arms-retcode.aliyuncs.com",
+        "Path": "/r.png",
+        "Params": [
+            {
+                "key": "t",
+                "value": "api"
+            },
+            {
+                "key": "times",
+                "value": "1"
+            },
+            {
+                "key": "page",
+                "value": "https://market.m.taobao.com/app/trip/rx-journey-ssr/pages/home?titleBarHidden=2&disableNav=YES&webViewBackgroundColor=f2f3f5&_projVer=1.2.4"
+            },
+            {
+                "key": "tag",
+                "value": "rxpi.api"
+            },
+            {
+                "key": "environment",
+                "value": "prod"
+            },
+            {
+                "key": "begin",
+                "value": "1700572724642"
+            },
+            {
+                "key": "api",
+                "value": "rxpi.fn.result"
+            },
+            {
+                "key": "success",
+                "value": "1"
+            },
+            {
+                "key": "code",
+                "value": "RXPI_API_LOG"
+            },
+            {
+                "key": "time",
+                "value": "1"
+            },
+            {
+                "key": "traceId",
+                "value": "null"
+            },
+            {
+                "key": "c1",
+                "value": "\u76ee\u524d\u6ca1\u6709\u884c\u7a0b\uff0c\u5feb\u51fa\u53d1\u5427"
+            },
+            {
+                "key": "c2",
+                "value": "web|android|alitrip"
+            },
+            {
+                "key": "c3",
+                "value": ""
+            },
+            {
+                "key": "sampling",
+                "value": "1"
+            },
+            {
+                "key": "uid",
+                "value": "rxpi"
+            },
+            {
+                "key": "pid",
+                "value": "haa3j9plpi@e98c35c59b2b577"
+            },
+            {
+                "key": "_v",
+                "value": "1.8.104"
+            },
+            {
+                "key": "sid",
+                "value": "rxpisessionchannel"
+            }
+        ]
+    },
+    {
+        "Domain": "g.alicdn.com",
+        "Path": "/trip/rx-redpacket-coupon/2.8.7/",
+        "Params": [
+            {
+                "key": "?rx-redpacket-coupon-commons.web.js,pages/list/index.web.js",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "Domain": "wgo.mmstat.com",
+        "Path": "/three-finger.h5.boot-init",
+        "Params": [
+            {
+                "key": "gmkey",
+                "value": "OTHER"
+            },
+            {
+                "key": "gokey",
+                "value": "url=https%3A%2F%2Fmarket.m.taobao.com%2Fapp%2Ftrip%2Fh5-crm-poplayer%2Fpages%2Fhome%2Findex.html&url_pre=&title=CRM%20Poplayer%20Page&bootVersion=1.1.1&buInfo=%257B%2522BU%2522%253A%2522%25E9%25A3%259E%25E7%258C%25AA%2522%257D"
+            },
+            {
+                "key": "ts",
+                "value": "1700572690102"
+            }
+        ]
+    },
+    {
+        "Domain": "log.mmstat.com",
+        "Path": "/eg.js",
+        "Params": []
+    },
+    {
+        "Domain": "fourier.taobao.com",
+        "Path": "/ts",
+        "Params": [
+            {
+                "key": "url",
+                "value": ""
+            },
+            {
+                "key": "token",
+                "value": "BGRk0qLh3YtUAylHgGfcv__qPmBW_Yhnt6ujQH6F8C_yKQTzpg1Y95oP7Ycx6sC_"
+            },
+            {
+                "key": "cna",
+                "value": ""
+            },
+            {
+                "key": "ext",
+                "value": "1"
+            },
+            {
+                "key": "unb",
+                "value": "3109667464"
+            },
+            {
+                "key": "sn",
+                "value": ""
+            },
+            {
+                "key": "uc3",
+                "value": "vt3=F8dD3CN4DWQSae3plls%3D&nk2=AHDWX6ca3Q%3D%3D&lg2=U%2BGCWk%2F75gdr5Q%3D%3D&id2=UNGWNGfKKLdhSw%3D%3D"
+            },
+            {
+                "key": "uc1",
+                "value": "cookie14=UoYelQ%2BHFFjZ1w%3D%3D&cookie21=U%2BGCWk%2F7pY%2FF&existShop=false&cookie15=W5iHLLyFOGW7aA%3D%3D"
+            },
+            {
+                "key": "csg",
+                "value": "d3f0e685"
+            },
+            {
+                "key": "lgc",
+                "value": "cjw9396"
+            },
+            {
+                "key": "cancelledSubSites",
+                "value": "empty"
+            },
+            {
+                "key": "t",
+                "value": "89a5821634e62153b1c708c970c9b90b"
+            },
+            {
+                "key": "cookie17",
+                "value": "UNGWNGfKKLdhSw%3D%3D"
+            },
+            {
+                "key": "dnk",
+                "value": "cjw9396"
+            },
+            {
+                "key": "skt",
+                "value": "65a18ddf513a30a2"
+            },
+            {
+                "key": "munb",
+                "value": "3109667464"
+            },
+            {
+                "key": "cookie2",
+                "value": "14d6131e998b08112b5ff2d5ab063afe"
+            },
+            {
+                "key": "uc4",
+                "value": "nk4=0%40Ah5CB8dHuBE%2FLsKpC6uki7wN&id4=0%40UgbuP6ANce2yAV1B8XcCF%2Bve%2FylR"
+            },
+            {
+                "key": "tracknick",
+                "value": "cjw9396"
+            },
+            {
+                "key": "_cc_",
+                "value": "UIHiLt3xSw%3D%3D"
+            },
+            {
+                "key": "sg",
+                "value": "648"
+            },
+            {
+                "key": "_l_g_",
+                "value": "Ug%3D%3D"
+            },
+            {
+                "key": "_nk_",
+                "value": "cjw9396"
+            },
+            {
+                "key": "cookie1",
+                "value": "BvKIk%2Fi3aVwezUokZzkg2nudh2d4eOviZuo%2BoVPdIt4%3D"
+            },
+            {
+                "key": "_tb_token_",
+                "value": "873a3e35b83e"
+            },
+            {
+                "key": "sgcookie",
+                "value": "W100yWkH4cbwvkLX7kluQEWMY6p%2FHMHcBW%2FJUvxyw2Zpf8ZWv9l8EcJiEKgGWsjW%2F6RlXWGAdr3NkWqA0y9s9gkvvNdvZ%2BdVd4WbYaEGYr1b7EciotNSdPIBFw9%2FZ%2FmywEVz"
+            },
+            {
+                "key": "_fli_longitude",
+                "value": "113.280637"
+            },
+            {
+                "key": "_fli_latitude",
+                "value": "23.125178"
+            },
+            {
+                "key": "_fli_cityName",
+                "value": "%E5%B9%BF%E5%B7%9E"
+            },
+            {
+                "key": "_fli_cityCode",
+                "value": "440100"
+            },
+            {
+                "key": "x5secdata",
+                "value": "xdbf0f86fbd180a9c4e0688e4e3c1df4345dc89c314edf046e1700571005a-717315356a-498007239abaac2baa__bx__acs.m.taobao.com%3A443%2Fgw%2Fmtop.taobao.detail.getdetail%2F6.0"
+            },
+            {
+                "key": "isg",
+                "value": "BN_f4v14xsqT2sLWz04XnpjDZTFpRDPmsBKIMXEsew7VAP-CeRTDNl1SxpZ-gwte"
+            }
+        ]
+    },
+    {
+        "Domain": "fcecore.fliggy.com",
+        "Path": "/getStaticDataById",
+        "Params": [
+            {
+                "key": "tbpm",
+                "value": "1"
+            },
+            {
+                "key": "dataId",
+                "value": "17331"
+            },
+            {
+                "key": "callback",
+                "value": "jsonp_1700572658870_96239"
+            }
+        ]
+    },
+    {
+        "Domain": "login.taobao.com",
+        "Path": "/jump",
+        "Params": [
+            {
+                "key": "group",
+                "value": "tao"
+            },
+            {
+                "key": "target",
+                "value": "https://fcecore.fliggy.com/getStaticDataById?tbpm=1&dataId=17331&callback=jsonp_1700572658870_96239"
+            },
+            {
+                "key": "x5secdata",
+                "value": "xd19eea7eba2711e9f2ae442212e17a14d40dc271e4da510b41700570967a-717315356a-1361477941abazf2aaa__bx__acs.m.taobao.com%3A443%2Fgw%2Fmtop.fliggy.ssif.pattern.home%2F1.0"
+            }
+        ]
+    },
+    {
+        "Domain": "pass.fliggy.com",
+        "Path": "/add",
+        "Params": [
+            {
+                "key": "unb",
+                "value": "3109667464"
+            },
+            {
+                "key": "uc1",
+                "value": "cookie14=UoYelQ+HFFjZ1w==;cookie21=U+GCWk/7pY/F;existShop=false;cookie15=W5iHLLyFOGW7aA=="
+            },
+            {
+                "key": "csg",
+                "value": "d3f0e685"
+            },
+            {
+                "key": "cancelledSubSites",
+                "value": "empty"
+            },
+            {
+                "key": "t",
+                "value": "89a5821634e62153b1c708c970c9b90b"
+            },
+            {
+                "key": "cookie17",
+                "value": "UNGWNGfKKLdhSw=="
+            },
+            {
+                "key": "dnk",
+                "value": "cjw9396"
+            },
+            {
+                "key": "cookie2",
+                "value": "14d6131e998b08112b5ff2d5ab063afe"
+            },
+            {
+                "key": "tracknick",
+                "value": "cjw9396"
+            },
+            {
+                "key": "lid",
+                "value": "cjw9396"
+            },
+            {
+                "key": "sg",
+                "value": "648"
+            },
+            {
+                "key": "_l_g_",
+                "value": "Ug=="
+            },
+            {
+                "key": "_nk_",
+                "value": "cjw9396"
+            },
+            {
+                "key": "cookie1",
+                "value": "BvKIk/i3aVwezUokZzkg2nudh2d4eOviZuo+oVPdIt4="
+            },
+            {
+                "key": "_tb_token_",
+                "value": "873a3e35b83e"
+            },
+            {
+                "key": "sgcookie",
+                "value": "W100yWkH4cbwvkLX7kluQEWMY6p/HMHcBW/JUvxyw2Zpf8ZWv9l8EcJiEKgGWsjW/6RlXWGAdr3NkWqA0y9s9gkvvNdvZ+dVd4WbYaEGYr1b7EciotNSdPIBFw9/Z/mywEVz"
+            },
+            {
+                "key": "login",
+                "value": "true"
+            },
+            {
+                "key": "tmsc",
+                "value": "1700571022584000"
+            },
+            {
+                "key": "opi",
+                "value": "33.80.65.223"
+            },
+            {
+                "key": "pacc",
+                "value": "FSY2Obqp9H0OcjUerEthJw=="
+            },
+            {
+                "key": "target",
+                "value": "https://fcecore.fliggy.com/getStaticDataById?tbpm=1&dataId=17331&callback=jsonp_1700572707668_9581"
+            }
+        ]
+    },
+    {
+        "Domain": "wgo.mmstat.com",
+        "Path": "/tbtrip.1000.8",
+        "Params": [
+            {
+                "key": "cache",
+                "value": "1700572692693"
+            },
+            {
+                "key": "gmkey",
+                "value": "CLK"
+            },
+            {
+                "key": "gokey",
+                "value": "spm=181.8844147&isOff=0&keepword=1&guid=1700572690541&nickName=cjw9396&tracVer=0.7.0&projVer=1.1.2&gitRepos=rx-member-center-webview&netstat=wifi&dpr=2.75&sendTime=1700572692692&sendIndex=0&pushVer=&baseVer=0.7.19&logs=%5B%7B%22name%22%3A%22unloadComplete%22%2C%22st%22%3A2148%2C%22tp%22%3A%22unloadComplete%22%7D%2C%7B%22name%22%3A%22headerComplete%22%2C%22st%22%3A170%2C%22tp%22%3A%22headerComplete%22%7D%5D&spm-cnt=181.8844147.0.0"
+            },
+            {
+                "key": "spm-cnt",
+                "value": "181.8844147.0.0"
+            }
+        ]
+    }
+]

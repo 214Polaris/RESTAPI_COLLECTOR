@@ -1,0 +1,339 @@
+{
+ "Cluster1": [
+  {
+   "Domain": "api-shb1.pinduoduo.com",
+   "Path": "/api/philo/personal/center/tab",
+   "Params": [
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "api_uid",
+     "value": "CkyKiGVcmY5bvgBuMPFZAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "meta-shb1.pinduoduo.com",
+   "Path": "/api/app/v1/patch/batch/report",
+   "Params": [
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "api_uid",
+     "value": "CkyKiGVcmY5bvgBuMPFZAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "m.pinduoduo.net",
+   "Path": "/proxy/api/api/server/_stm",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "meta.pinduoduo.com",
+   "Path": "/api/app/v2/abtest",
+   "Params": [
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "api_uid",
+     "value": "CkyKiGVcmY5bvgBuMPFZAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "api.pinduoduo.com",
+   "Path": "/api/alexa/cells/hub/v3",
+   "Params": [
+    {
+     "key": "req_list_action_type",
+     "value": "5"
+    },
+    {
+     "key": "page_sn",
+     "value": "10002"
+    },
+    {
+     "key": "page_id",
+     "value": "index_list.html"
+    },
+    {
+     "key": "default_impr_ratio",
+     "value": "0.53"
+    },
+    {
+     "key": "offset",
+     "value": "0"
+    },
+    {
+     "key": "list_id",
+     "value": "91647556"
+    },
+    {
+     "key": "count",
+     "value": "20"
+    },
+    {
+     "key": "engine_version",
+     "value": "3.0"
+    },
+    {
+     "key": "req_action_type",
+     "value": "5"
+    },
+    {
+     "key": "platform",
+     "value": "2"
+    },
+    {
+     "key": "launch_type",
+     "value": "2"
+    },
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "acid",
+     "value": "464b3e55f11866361106181537e7d076"
+    },
+    {
+     "key": "api_uid",
+     "value": "CkyKiGVcmY5bvgBuMPFZAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "th-b.pinduoduo.com",
+   "Path": "/t.gif",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "rBUErWVcmZOX7HG5xa1uAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "api.pinduoduo.com",
+   "Path": "/api/alexa/homepage/hub",
+   "Params": [
+    {
+     "key": "page_id",
+     "value": "index.html?dy_sub_page=home"
+    },
+    {
+     "key": "install_token",
+     "value": "34e113b0-e887-4112-81ec-7653acc04096"
+    },
+    {
+     "key": "client_time",
+     "value": "1701588860374"
+    },
+    {
+     "key": "list_id",
+     "value": "21934354"
+    },
+    {
+     "key": "top_opt_version",
+     "value": "2"
+    },
+    {
+     "key": "scale",
+     "value": "2.75"
+    },
+    {
+     "key": "support_formats",
+     "value": "1"
+    },
+    {
+     "key": "nuz_version",
+     "value": "2"
+    },
+    {
+     "key": "req_action_type",
+     "value": "10"
+    },
+    {
+     "key": "engine_version",
+     "value": "2.0"
+    },
+    {
+     "key": "launch_channel",
+     "value": "1"
+    },
+    {
+     "key": "pdduid",
+     "value": "7007623613171"
+    },
+    {
+     "key": "acid",
+     "value": "464b3e55f11866361106181537e7d076"
+    },
+    {
+     "key": "api_uid",
+     "value": "CkyKiGVcmY5bvgBuMPFZAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "th.pinduoduo.com",
+   "Path": "/te.gif",
+   "Params": [
+    {
+     "key": "api_uid",
+     "value": "rBUErWVcmZOX7HG5xa1uAg=="
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "avatar3-1.pddpic.com",
+   "Path": "/a/Q0l6NDV2TU9zaU1taFFhMjkrWjRUTTg3ekZYQUE2aFg3Zz09djA0-1682913371",
+   "Params": [
+    {
+     "key": "imageMogr2/thumbnail/100x",
+     "value": ""
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "avatar3-1.pddpic.com",
+   "Path": "/avatar/default/7.png",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "img-1.pddpic.com",
+   "Path": "/mms-material-img/2023-10-14/02eb0f80-e191-419d-8b0d-8e78a2960317.jpeg",
+   "Params": [
+    {
+     "key": "imageMogr2/format/webp/quality/60/thumbnail/500x",
+     "value": ""
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "img-1.pddpic.com",
+   "Path": "/mms-material-img/2023-09-13/f2fc9583-e90d-4a6f-8fcb-ee77605a34fd.jpeg",
+   "Params": [
+    {
+     "key": "imageMogr2/format/webp/quality/60/thumbnail/500x",
+     "value": ""
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  },
+  {
+   "Domain": "img-1.pddpic.com",
+   "Path": "/image-process-result/enlarge_white_bg_v2/v7/3ec5d3fe-88e7-11ee-966e-0a580a317a2a.jpg",
+   "Params": [
+    {
+     "key": "imageMogr2/quality/80/thumbnail/170x",
+     "value": ""
+    }
+   ],
+   "Timestamp": "2023-12-03 15:04:40"
+  }
+ ],
+ "Cluster2": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/70000/com.xunmeng.pinduoduo.remote.layer.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:50"
+  },
+  {
+   "Domain": "cd-1.pddpic.com",
+   "Path": "/android_dev/2023-10-30/component/shard/1512/0/8d2ecbf7b3f14bbea5e18ce5553d7ec4.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:50"
+  }
+ ],
+ "Cluster3": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/2000/com.xunmeng.pinduoduo.remote.mobileSearch.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:52"
+  },
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/122000/com.xunmeng.pinduoduo.remote.flower.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:52"
+  }
+ ],
+ "Cluster4": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/999000/com.xunmeng.pinduoduo.remote.transactionNew.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:59"
+  },
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/332000/com.xunmeng.pinduoduo.remote.mobileSilentFresher.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:04:59"
+  }
+ ],
+ "Cluster5": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/2078000/com.xunmeng.pinduoduo.remote.lego.subjects.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:01"
+  },
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/2000/com.xunmeng.pinduoduo.remote.transactionLitePopup.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:01"
+  }
+ ],
+ "Cluster6": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/70000/com.xunmeng.pinduoduo.remote.mobileNpersonal.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:04"
+  }
+ ],
+ "Cluster7": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/86000/com.xunmeng.pinduoduo.remote.snake.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:07"
+  },
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/411000/com.xunmeng.pinduoduo.remote.free.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:07"
+  }
+ ],
+ "Cluster8": [
+  {
+   "Domain": "cdl.pddpic.com",
+   "Path": "/volantis3-open/component/5001/com.xunmeng.pinduoduo.remote.homescapes.7z",
+   "Params": [],
+   "Timestamp": "2023-12-03 15:05:10"
+  }
+ ]
+}

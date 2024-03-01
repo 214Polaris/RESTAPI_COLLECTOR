@@ -1,0 +1,200 @@
+[
+    {
+        "Domain": "pwapp.qunar.com",
+        "Path": "/api/log/commonLog",
+        "Params": [
+            {
+                "key": "pt",
+                "value": "mina_wechat"
+            },
+            {
+                "key": "nanoid",
+                "value": "qB5QfU9ItNGLkyuu4Bzs0"
+            },
+            {
+                "key": "cid",
+                "value": "production"
+            },
+            {
+                "key": "uname",
+                "value": "\u53bb\u54ea\u513f\u7528\u6237"
+            },
+            {
+                "key": "username",
+                "value": "kuqblxb6042"
+            },
+            {
+                "key": "cname",
+                "value": "U.kuqblxb6042"
+            },
+            {
+                "key": "qunarGlobal",
+                "value": "y0HOKnOWly5DhHgiDRhjIcISWeGi"
+            },
+            {
+                "key": "openid",
+                "value": "oIjYJ0YFOxn4gmb3Uz5PKJevLS3o"
+            },
+            {
+                "key": "unionid",
+                "value": "ovaMOwHn5rfaD0ysEJm4SZgazRmE"
+            },
+            {
+                "key": "bdSource",
+                "value": "wx"
+            },
+            {
+                "key": "fp",
+                "value": ""
+            },
+            {
+                "key": "pageUrl",
+                "value": "pages/platform/indexWx/index"
+            },
+            {
+                "key": "urlfrom",
+                "value": "pages/platform/indexWx/index"
+            },
+            {
+                "key": "bdOrigin",
+                "value": "scene_1089"
+            },
+            {
+                "key": "model",
+                "value": "Pixel 3"
+            },
+            {
+                "key": "os",
+                "value": "Android 9"
+            },
+            {
+                "key": "scene",
+                "value": "1089"
+            },
+            {
+                "key": "pVersion",
+                "value": "3.14.38"
+            },
+            {
+                "key": "uid",
+                "value": "00008b002f1058993e589dde"
+            },
+            {
+                "key": "lat",
+                "value": ""
+            },
+            {
+                "key": "lgt",
+                "value": ""
+            },
+            {
+                "key": "platform",
+                "value": "android"
+            },
+            {
+                "key": "vid",
+                "value": "8.0.28"
+            },
+            {
+                "key": "appId",
+                "value": "wx799d4d93a341b368"
+            },
+            {
+                "key": "action",
+                "value": "[{'bizType': 'market', 'page': 'login', 'module': 'login', 'appcode': 'nnc_module_qunar_platform', 'id': 'wx_login_success', 'operType': 'click', 'ext': {'loginType': 'default'}, 'common': {'pid': 'g2105', 'traceId': 1700572096458, 'traceIndex': 70}, 'operTime': 1700572100453, 'key': 'market/login/login/click/wx_login_success'}]"
+            }
+        ]
+    },
+    {
+        "Domain": "m.flight.qunar.com",
+        "Path": "/shark/watcher",
+        "Params": [
+            {
+                "key": "wxScene",
+                "value": "1089"
+            },
+            {
+                "key": "wxQuery",
+                "value": ""
+            },
+            {
+                "key": "QunarGlobal",
+                "value": "_HJuLDML2_ic7mp-c4GLkcEgei2-"
+            },
+            {
+                "key": "_i",
+                "value": "_HJuLDML2_ic7mpuc4GLklNe45h-"
+            },
+            {
+                "key": "unionId",
+                "value": "ovaMOwHn5rfaD0ysEJm4SZgazRmE"
+            },
+            {
+                "key": "openId",
+                "value": "oIjYJ0YFOxn4gmb3Uz5PKJevLS3o"
+            },
+            {
+                "key": "bd_source",
+                "value": "wx"
+            },
+            {
+                "key": "_q",
+                "value": "U.kuqblxb6042"
+            },
+            {
+                "key": "_v",
+                "value": "5oOyM2k0KbS_Pj41OancEEcIbkYy9ooyQ7WDjCfjWHP4eo6Z8HGM6FApWeF3Pm269OPGO1yLzHHfVCkox5KlX20VtyzTmCIB638-HZ9M4kYhxjGoblhdh6jpE85rPyxwuSqSMmpCtfrGjkKkmnwwPmW8DZIc6a_XRkRsunAPEOW5"
+            },
+            {
+                "key": "_t",
+                "value": "28584747"
+            },
+            {
+                "key": "_s",
+                "value": "s_5EHHVWDZS72XLWS6XSY7L5WEVM"
+            },
+            {
+                "key": "csrfToken",
+                "value": "tBExPn1mMbaVA0ebEgrvwGtiticahJ7y"
+            },
+            {
+                "key": "token",
+                "value": "2B3277D1D46AD90D35A8D3EA6174B278"
+            },
+            {
+                "key": "name",
+                "value": "pageshow"
+            },
+            {
+                "key": "platform",
+                "value": "default"
+            },
+            {
+                "key": "cid",
+                "value": "77ead3df3fa072d257399672cb72c17d"
+            }
+        ]
+    },
+    {
+        "Domain": "m.flight.qunar.com",
+        "Path": "/gw/m/market/log",
+        "Params": [
+            {
+                "key": "p",
+                "value": "h5"
+            },
+            {
+                "key": "logType",
+                "value": "ue"
+            },
+            {
+                "key": "c",
+                "value": "{\"_q\":\"U.kuqblxb6042\",\"_v\":\"5oOyM2k0KbS_Pj41OancEEcIbkYy9ooyQ7WDjCfjWHP4eo6Z8HGM6FApWeF3Pm269OPGO1yLzHHfVCkox5KlX20VtyzTmCIB638-HZ9M4kYhxjGoblhdh6jpE85rPyxwuSqSMmpCtfrGjkKkmnwwPmW8DZIc6a_XRkRsunAPEOW5\",\"_t\":\"28584747\",\"_s\":\"s_5EHHVWDZS72XLWS6XSY7L5WEVM\",\"_i\":\"_HJuLDML2_ic7mpuc4GLklNe45h-\",\"hd_origin\":\"\",\"newLog\":1,\"model\":\"Pixel 3\",\"osVersion\":\"\",\"platform\":\"adr\",\"action_type\":\"pageview\",\"activityId\":\"23skiing\",\"projectId\":\"23skiing\",\"pageId\":\"23skiing\"}"
+            },
+            {
+                "key": "b",
+                "value": "[{\"action\":\"cus\",\"info\":{\"uid\":\"oIjYJ0YFOxn4gmb3Uz5PKJevLS3o\",\"user_name\":\"U.kuqblxb6042\",\"bd_source\":\"zn_xcxtanchuang\",\"action_time\":1700572124241,\"cookie\":\"{\\\"wxScene\\\":1089,\\\"wxQuery\\\":\\\"\\\",\\\"QunarGlobal\\\":\\\"_HJuLDML2_ic7mp-c4GLkcEgei2-\\\",\\\"_i\\\":\\\"_HJuLDML2_ic7mpuc4GLklNe45h-\\\",\\\"unionId\\\":\\\"ovaMOwHn5rfaD0ysEJm4SZgazRmE\\\",\\\"openId\\\":\\\"oIjYJ0YFOxn4gmb3Uz5PKJevLS3o\\\",\\\"bd_source\\\":\\\"wx\\\",\\\"_q\\\":\\\"U.kuqblxb6042\\\",\\\"_v\\\":\\\"5oOyM2k0KbS_Pj41OancEEcIbkYy9ooyQ7WDjCfjWHP4eo6Z8HGM6FApWeF3Pm269OPGO1yLzHHfVCkox5KlX20VtyzTmCIB638-HZ9M4kYhxjGoblhdh6jpE85rPyxwuSqSMmpCtfrGjkKkmnwwPmW8DZIc6a_XRkRsunAPEOW5\\\",\\\"_t\\\":\\\"28584747\\\",\\\"_s\\\":\\\"s_5EHHVWDZS72XLWS6XSY7L5WEVM\\\",\\\"csrfToken\\\":\\\"tBExPn1mMbaVA0ebEgrvwGtiticahJ7y\\\",\\\"QN1\\\":\\\"00008d80123858993de0ad6e\\\",\\\"Expires\\\":\\\"Mon,19Feb202412:27:44GMT\\\",\\\"Max-Age\\\":\\\"630720000\\\",\\\"Domain\\\":\\\"qunar.com\\\",\\\"Path\\\":\\\"/\\\",\\\"QN300\\\":\\\"wx\\\",\\\"QN66\\\":\\\"wx\\\",\\\"QN48\\\":\\\"00008b002f1058993e589dde\\\",\\\"HTTPOnly,_v\\\":\\\"5oOyM2k0KbS_Pj41OancEEcIbkYy9ooyQ7WDjCfjWHP4eo6Z8HGM6FApWeF3Pm269OPGO1yLzHHfVCkox5KlX20VtyzTmCIB638-HZ9M4kYhxjGoblhdh6jpE85rPyxwuSqSMmpCtfrGjkKkmnwwPmW8DZIc6a_XRkRsunAPEOW5\\\",\\\"HTTPOnl\\\":\\\"HTTPOnly\\\"}\",\"from_url\":\"23skiing\",\"to_url\":\"\",\"user_type\":\"xcx\",\"project_id\":\"23skiing\",\"activity_id\":\"23skiing\",\"page_id\":\"23skiing\",\"action_type\":\"pageview\",\"page_depth\":\"\",\"type\":\"\",\"button_id\":\"\",\"button_name\":\"\",\"QN1\":\"00008d80123858993de0ad6e\",\"activityId\":\"23skiing\",\"projectId\":\"23skiing\",\"pageId\":\"23skiing\"}}]"
+            }
+        ]
+    }
+]

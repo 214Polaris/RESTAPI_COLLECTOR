@@ -1,0 +1,422 @@
+[
+    {
+        "Domain": "res.xiaojukeji.com",
+        "Path": "/resapi/activity/getMulti",
+        "Params": [
+            {
+                "key": "ts",
+                "value": "1700566992444"
+            },
+            {
+                "key": "lang",
+                "value": "zh-CN"
+            },
+            {
+                "key": "access_key_id",
+                "value": "9"
+            },
+            {
+                "key": "appversion",
+                "value": "6.7.20"
+            },
+            {
+                "key": "channel",
+                "value": "1100000002"
+            },
+            {
+                "key": "_ds",
+                "value": ""
+            },
+            {
+                "key": "xenv",
+                "value": "wxmp"
+            },
+            {
+                "key": "need_webx_preparse",
+                "value": "1"
+            },
+            {
+                "key": "xpsid",
+                "value": "0c6888e44d174cb2b1925674b61a6dc2"
+            },
+            {
+                "key": "xpsid_root",
+                "value": "0c6888e44d174cb2b1925674b61a6dc2"
+            },
+            {
+                "key": "app_id",
+                "value": "common"
+            },
+            {
+                "key": "resource_names",
+                "value": "didi_applets_startpage_superbanner"
+            },
+            {
+                "key": "maptype",
+                "value": "soso"
+            },
+            {
+                "key": "apiver",
+                "value": "2.0.0"
+            },
+            {
+                "key": "openid",
+                "value": "oJJUI0blFOwQ0GKEc6RZXalpTN4s"
+            },
+            {
+                "key": "width",
+                "value": "393"
+            },
+            {
+                "key": "height",
+                "value": "738"
+            },
+            {
+                "key": "hostversion",
+                "value": "2.27.3"
+            },
+            {
+                "key": "platform_type",
+                "value": "2"
+            },
+            {
+                "key": "nl",
+                "value": "1"
+            },
+            {
+                "key": "channel_id",
+                "value": "1100000002"
+            },
+            {
+                "key": "bottom_tabs",
+                "value": "cxyx,bottom_tab,freight"
+            },
+            {
+                "key": "business_ids",
+                "value": "666,256"
+            },
+            {
+                "key": "enter_dchn",
+                "value": ""
+            },
+            {
+                "key": "lat",
+                "value": "22.349469943576388"
+            },
+            {
+                "key": "lng",
+                "value": "113.58420572916667"
+            },
+            {
+                "key": "city_id",
+                "value": "0"
+            },
+            {
+                "key": "from_city_id",
+                "value": "0"
+            },
+            {
+                "key": "from_lat",
+                "value": "0"
+            },
+            {
+                "key": "from_lng",
+                "value": "0"
+            },
+            {
+                "key": "wsgsig",
+                "value": "dd03-hKkzMp03AkNsi9xDSYwGcvN+bdoUnVAFo5ZJF38HbdoVirkMwY98aRf2DUNVi9x0OwxcbvC1DlDWUFh4SMVKF7J1BUCXWVlFZxxKEyJ2gaDn/AIEp6VIaK+HCkbjskl4SIL8f4A"
+            }
+        ]
+    },
+    {
+        "Domain": "msggate.xiaojukeji.com",
+        "Path": "/server/idcollector/p_cidcollector",
+        "Params": [
+            {
+                "key": "cancel",
+                "value": "2806031e15d681f5d1c106af8e3679e4"
+            },
+            {
+                "key": "userlng",
+                "value": "113.58421309935194"
+            },
+            {
+                "key": "app_type",
+                "value": "1"
+            },
+            {
+                "key": "channel",
+                "value": "38"
+            },
+            {
+                "key": "uuid",
+                "value": "1726C18895AA189F0E681A34E9C5239C"
+            },
+            {
+                "key": "vcode",
+                "value": "920"
+            },
+            {
+                "key": "mac",
+                "value": ""
+            },
+            {
+                "key": "platform",
+                "value": "1"
+            },
+            {
+                "key": "userlat",
+                "value": "22.3497167428166"
+            },
+            {
+                "key": "dviceid",
+                "value": "316073162c7adcc662f0fe3fc73334fd"
+            },
+            {
+                "key": "datatype",
+                "value": "1"
+            },
+            {
+                "key": "model",
+                "value": "Pixel 3"
+            },
+            {
+                "key": "lang",
+                "value": "zh-CN"
+            },
+            {
+                "key": "networkType",
+                "value": "WIFI"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "lat",
+                "value": "22.3497167428166"
+            },
+            {
+                "key": "lng",
+                "value": "113.58421309935194"
+            },
+            {
+                "key": "os",
+                "value": "9"
+            },
+            {
+                "key": "suuid",
+                "value": "316073162c7adcc662f0fe3fc73334fd"
+            },
+            {
+                "key": "cpu",
+                "value": "Processor\t: AArch64 Processor rev 13 (aarch64)"
+            },
+            {
+                "key": "appversion",
+                "value": "6.0.0"
+            },
+            {
+                "key": "token",
+                "value": "M_AVX_dpvVaXUIIPggiG22mWhw4LkT2itWNI6e3CJsckzDuOwzAMANG7TE0YpCTKJtvt9w77cT6NAiRIZeTugZ12MHgbQ0nqpJMiDCNNGIU0VVVhVNJmj6rWwpcWTRhtb7pUC48uDCf5-kb4IUH4JUuE9rla6GJqIfyTVoSV3Hjcnve_ldSXcDos9VYP60xi7jr3XrwEwuVjXvf9HQAA__8="
+            },
+            {
+                "key": "brand_id",
+                "value": "sjWJaL+vrAxRAG0HgXYEV6tC4MJcpA8HPwnxTosz7XcqjR/dzpl+tAz3le3pxU0Z"
+            },
+            {
+                "key": "push_enabled",
+                "value": "1"
+            },
+            {
+                "key": "phone",
+                "value": "15507662529"
+            },
+            {
+                "key": "maptype",
+                "value": "soso"
+            },
+            {
+                "key": "imei",
+                "value": "316073162c7adcc662f0fe3fc73334fd"
+            },
+            {
+                "key": "time",
+                "value": "1700567004442"
+            },
+            {
+                "key": "android_id",
+                "value": "d5458710ccb2af70"
+            },
+            {
+                "key": "city_id",
+                "value": "84"
+            }
+        ]
+    },
+    {
+        "Domain": "omgup.xiaojukeji.com",
+        "Path": "/api/stat/android",
+        "Params": [
+            {
+                "key": "bM@y8c\u0004<*S@cY\u0010*\na\u0010\u000eff4)\u00ccQp*\r Z\u0003q\u0018m\u00033\u029bi\u0012bl\u0011{G\u0002%\u0006)(*\u0002\u001cS\u00045\u001ewLU",
+                "value": "['U\\x046\\x1cV\\x1abV\\x03\\x195j\u03bc\u9aaa\\'M\\x07t\\x1f7] .V\\x08\\x14wWG7\u07dbO>\u01cbo/.\u0778p}/\u07e6(\\x1a!1\\r$] \\x0e<k\\x1bj[\\x16\\x04V\\x10jN6*]\\x00\\x05X\\x16\\x03\\x0c\"@/_\\x1e^\\x05\\x05\\x03 T\\x04cpD\\x1b.E}\ud145G\\x7f\\r(\\x1f|\\x1faw\\x1b\\x15\\x0fhw\u0425jq\u07f7W}G\uaf51Oc\\x0e\u052e\\x02kNoU-G#]!)\\x07mM\u04c8g<S\\x0b!1R \\x14X\\u07bbkux\\x00Kj$sf\\x15\\x0b\\x1bBeDdD\\x10\\x1e\\x15\\x1d\\x04AE\\x16K\\x05M=\\x18Y{\u0472m<-\\'{u\\x01\u0541\\x1a8\\x10YA:j2P<\\x12\\x158\u0141\\x1d<><`[u2p\\x18uD`\\x1ah\\x02\\x1fB\\x1c(\\x1d\\x08\\x11\\x07']"
+            },
+            {
+                "key": ":\u0642\tM.\u0016_Ya)Y6\u0013\u0002Q'\u0004\t\u0018QJyq.Q7\\9\u001aw>Z}\u073e!\u000fx7 ?~/\u0016\u0017j\u07f9o",
+                "value": "[\"y4\u0662\\x124/$'\\x08\\nFoNFR\\x00IRUZhbM\\x1cS5\\x1b\\x19ChZfx\\x1e\\\\c\\x16q_@cB\\x19<B~R\\x11ZM\u0353\\x13\\x02Ojo$\u0222T\u01a3l\\x04E\\x16wZ>Z,r4#y:e~L$/!_N\u03a5Um,zM_\\r\u0376cV\u05a5j\\x04n\\x02j\\x1b\\x19Nd\\x05\u00b6\\x03,(\u015cU\\x08T.\\x1c-YM\\x13\\x12\u06f4H \\x7f\u04b5\\x10\\x18Si\\x12D\\x0fY`\\n\\x14am\\x02Q\\x0c\\x11\\x06u\\x13]5)u=}[ptNdS}x\\x1e\\x05ffI\\x10Z\u05ad{><\u06d8%\\x01wx\u05a0dJ\\x1fdUe*\"]"
+            },
+            {
+                "key": "<$`\r\n;\u0011\u001d}\u072dgB)#d?\u0012\u001fQ\u0016G \u0006?rE\u0014CVWpo\u0004\u0012m\u05cfyC\u02b814\u000ePkwcF\bAH_\u00142fv\u001dZ!^L/\u01cbt4\u0002#}x8#\\I\u001c\u001a8v\u0624vv\u0016OVX3d~?}\u001d\rs* mg\u00019\r\u0002\u05408th|q\u0003h m`.n{T\u0003\n7Dp-Y\u0007f}P\u0007\u000eLk\u050c\u001f\u0005^IP (}iW\u0017;\u0002:o\u000fw[|pV}\u0006vO?-}v[t>79B^Jupoe\u0004Y\u0012I\u001aaDKEH\u0001\u001b\u001c\u0016p\u00026\b(@ 2'@{^\u000fP\u0315\u0016\u0015\u001fu\u000b:\u0000~~\"]\u0007y-5",
+                "value": "['`c\\x1fB^7 C(\\x0fhFQ\\\\Z\\x1fJK\\x0f1[p]\\x0b,\u024do\\x16\\x05jt~>\\x7f 9']"
+            },
+            {
+                "key": "c\"\u001d\u0012v:o\u0106\f\u00035\u0004\u001cGL6<T0S\u0015EU\u00026Y\u0002[F\u0013l8T`\r\u001bl\u0004H'v|\u0016A",
+                "value": "['\\x1c:9o\\x0fy\u072a\\x044K\\x0f\\x13%>EFqF}~/\\x14/*gpFE\\x7f8@Fb\\x14\\x0b\\x10>\\t3$F\"\\x04=AFN{\\x1a1C~RX)V5\u0208M ^-$\\ry~\u05adwo\\x7fC\\x85Oo\u19e9\\x01qMh3x\\x1ev\\x18P{n>\\x16\\x19\\x1c\\x10T\\x14\\x04\\x16-i\\x01K\\x129;ulTfJ\u05787?t\\\\\\x07C]r\\n.d\\x1cF)B(n,sA?<>\\x163VyF\\x18\\x1bEHa}vIVM:D7{\\x1b\\x01x\\\\:K\\'\u033b=Q\\x11]w\\x18{\\x0cS\u0523O\\r]8bp5l P9\u06fd3\u042d\\x13sR-\u035cSM9;;1qZ\\x0es\\\\c\\x12\u05e79 \\x10\\t?v40\\x17\\x0fF\\'Z\\x17K876}h\\x0c$\\x19T:=:#nHU?:\\x17\\x13g\u0659y\u045fmyZK1A\\x0eUH]\\x17']"
+            },
+            {
+                "key": ")\u0017\u007f7\u0014B\u04a75V>\u066f@\u0014{_~N\u0018\ti?\u000bzO\u0018\u0012`\u0010\u048bp|\u0003Ai\u007f\u00062",
+                "value": "[\"z0\\x17\\x088}^ p^_\\x01 )w'g\\x05\u03dc1N\\x02Z3'\\x1e[\u0420\u02482Y?[\\x15x\"]"
+            }
+        ]
+    },
+    {
+        "Domain": "page.udache.com",
+        "Path": "/wyc-webx/wyc-vip-level/index.html",
+        "Params": [
+            {
+                "key": "token",
+                "value": "6K6yZba5N4lmTTBvcmKVsPCLbF1ckD7YcXjhZJE0bkg0zDlqxUAQBuG7VNw8_ll6Rt238SIvyRhsHAnd3QjhqKCC72CJpD30EMYqpBurks2lMFYjy_RoKj1869GN1a8n-dhC01hOgvF055msERqzldBWVMJ4JcPYyYOfr9_vl510SXEab_-Ytwt7JynummNUr4HxcbOfpM6_AAAA__8="
+            },
+            {
+                "key": "cityid",
+                "value": "84"
+            },
+            {
+                "key": "entrance_channel",
+                "value": "1702000151"
+            },
+            {
+                "key": "webx_cluster_id",
+                "value": "64"
+            },
+            {
+                "key": "xpsid",
+                "value": "61a157dcc1a54c7ca259f0c0bfdd67e5"
+            },
+            {
+                "key": "xpsid_root",
+                "value": "0c6888e44d174cb2b1925674b61a6dc2"
+            },
+            {
+                "key": "dchn",
+                "value": "k2EABGp"
+            },
+            {
+                "key": "prod_key",
+                "value": "wyc-vip-level"
+            },
+            {
+                "key": "openid",
+                "value": "oJJUI0blFOwQ0GKEc6RZXalpTN4s"
+            },
+            {
+                "key": "xenv",
+                "value": "wxmp"
+            },
+            {
+                "key": "xoid",
+                "value": "3d39821e-d494-409f-b4e9-155b367fe45f"
+            },
+            {
+                "key": "xbiz",
+                "value": "110000"
+            },
+            {
+                "key": "xspm_from",
+                "value": "none.none.none.none"
+            },
+            {
+                "key": "xpsid_from",
+                "value": "e8765ec88b744a228fc2b3858392f35c"
+            },
+            {
+                "key": "xpsid_share",
+                "value": ""
+            },
+            {
+                "key": "root_xpsid",
+                "value": "86becf797a6c4542afe6e77b78025419"
+            },
+            {
+                "key": "f_xpsid",
+                "value": "e8765ec88b744a228fc2b3858392f35c"
+            },
+            {
+                "key": "channel_id",
+                "value": "17,020,00151"
+            },
+            {
+                "key": "transfer_station_path",
+                "value": "/webx/transfer-station/index"
+            },
+            {
+                "key": "xcx_app_version",
+                "value": "6.7.20"
+            },
+            {
+                "key": "from",
+                "value": "xwebapp"
+            },
+            {
+                "key": "access_key_id",
+                "value": "9"
+            },
+            {
+                "key": "client_type",
+                "value": "201"
+            },
+            {
+                "key": "lang",
+                "value": "zh-CN"
+            },
+            {
+                "key": "trip_cityid",
+                "value": "84"
+            },
+            {
+                "key": "uid",
+                "value": "299067319081019"
+            },
+            {
+                "key": "appid",
+                "value": "wxaf35009675aa0b2a"
+            },
+            {
+                "key": "_OMGID",
+                "value": "9da7acb7-33d8-4b7a-9753-e006dcbd3292"
+            }
+        ]
+    },
+    {
+        "Domain": "api.didi.cn",
+        "Path": "/webx/chapter/product/init",
+        "Params": [
+            {
+                "key": "wsgsig",
+                "value": "dd03-7jVgDdZ7Jjq6DfLYDAPn79YK1cA4GthyBUOsKrrL1cA3DXFmcABn89O6Itq3DfLw0ESv5AY4HiT2eDAqfFwV7lk86fq7gW9YD/hl6AY2HDw3gGaoClxn7/S7HjULciEqCa6k1qk"
+            }
+        ]
+    },
+    {
+        "Domain": "api.didi.cn",
+        "Path": "/webx/chapter/share/batch/config",
+        "Params": [
+            {
+                "key": "wsgsig",
+                "value": "dd03-nLpkdymYWf3QyxamQztdIujTkmuSvHS/O4sB5KoQkmuTyL1YuzKdHuXvVG3TyxaiovW1KQjwVXgoOO6oQ3v9JzvzhWpYwYBnzuWAI+zu/fNPRM6QzzteI8vxUWNvo22oRogg+JY"
+            }
+        ]
+    }
+]

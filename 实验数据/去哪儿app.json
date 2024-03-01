@@ -1,0 +1,208 @@
+[
+    {
+        "Domain": "pwapp.qunar.com",
+        "Path": "/api/log/commonLog",
+        "Params": [
+            {
+                "key": "pt",
+                "value": "hy"
+            },
+            {
+                "key": "QN241",
+                "value": ""
+            },
+            {
+                "key": "QN1",
+                "value": "00008100413858995d48acd0"
+            },
+            {
+                "key": "QN290",
+                "value": "Mz98c2NTc2NGM4ODEyYjI1ZiUyQzYwMDAxNTY4JTJDQzU3MDglMkNDNENENEI3OC1BOUUzLTYwQjEtOEZERC0xQzVCNEQ3REJGMjElMkMxMDAxMCUyQzcxZjJlY2E2LTY0NTYtNDIwZC1iYzVjLWUzNGQ5YmExMGJiMSUyQzM3NjU3NjRjODgxMmIyNWY="
+            },
+            {
+                "key": "_q",
+                "value": "U.kuqblxb6042"
+            },
+            {
+                "key": "_v",
+                "value": "grTFpr2i5Wk67z3g8zhxNDmVTsTDWVW2PYnaQJgdGsiuz0PP4devRRBqGL9iRagYinQTdQCBLM6Y8Wt4gEqfSX0t9_YBalOZN3V58XdB1lpeNBv9SLKSKWZV9fxI6K4Ol4oCzl2xSX_8lksD2cvoW59catS9omJg6th77_kQyT7j"
+            },
+            {
+                "key": "_t",
+                "value": "28841082"
+            },
+            {
+                "key": "_s",
+                "value": "s_WU7ABODOUROMGMNU6H4REPD2AI"
+            },
+            {
+                "key": "csrfToken",
+                "value": "MAIscXvu0vYHP15"
+            },
+            {
+                "key": "QN48",
+                "value": "0000c3802f1058995f388a26"
+            },
+            {
+                "key": "QN300",
+                "value": "organic"
+            },
+            {
+                "key": "ctt_june",
+                "value": "1683616182042##iK3was28ahPwawPwasP8asGDWDXAXSX%2BWPGTWRawaPXNXSEhEKERX%3DP%2BXPjOiK3siK3saKg8aRP%2BaS3mVKDsaUPwaUvt"
+            },
+            {
+                "key": "ctf_june",
+                "value": "1683616182042##iK3waKg%3DWwPwawPwasfDWDPAWKETWPa8VRfIXKXAa2P%3DEPEDXsWDVRfhaR2OiK3siK3saKg8aRP%2BaS3NaRXmauPwaUvt"
+            }
+        ]
+    },
+    {
+        "Domain": "m.flight.qunar.com",
+        "Path": "/shark/watcher",
+        "Params": [
+            {
+                "key": "QN241",
+                "value": ""
+            },
+            {
+                "key": "QN1",
+                "value": "00008100413858995d48acd0"
+            },
+            {
+                "key": "QN290",
+                "value": "Mz98c2NTc2NGM4ODEyYjI1ZiUyQzYwMDAxNTY4JTJDQzU3MDglMkNDNENENEI3OC1BOUUzLTYwQjEtOEZERC0xQzVCNEQ3REJGMjElMkMxMDAxMCUyQzcxZjJlY2E2LTY0NTYtNDIwZC1iYzVjLWUzNGQ5YmExMGJiMSUyQzM3NjU3NjRjODgxMmIyNWY="
+            },
+            {
+                "key": "_q",
+                "value": "U.kuqblxb6042"
+            },
+            {
+                "key": "_v",
+                "value": "grTFpr2i5Wk67z3g8zhxNDmVTsTDWVW2PYnaQJgdGsiuz0PP4devRRBqGL9iRagYinQTdQCBLM6Y8Wt4gEqfSX0t9_YBalOZN3V58XdB1lpeNBv9SLKSKWZV9fxI6K4Ol4oCzl2xSX_8lksD2cvoW59catS9omJg6th77_kQyT7j"
+            },
+            {
+                "key": "_t",
+                "value": "28841082"
+            },
+            {
+                "key": "_s",
+                "value": "s_WU7ABODOUROMGMNU6H4REPD2AI"
+            },
+            {
+                "key": "csrfToken",
+                "value": "MAIscXvu0vYHP15"
+            },
+            {
+                "key": "QN48",
+                "value": "0000c3802f1058995f388a26"
+            },
+            {
+                "key": "QN300",
+                "value": "organic"
+            },
+            {
+                "key": "ctt_june",
+                "value": "1683616182042##iK3was28ahPwawPwasP8asGDWDXAXSX%2BWPGTWRawaPXNXSEhEKERX%3DP%2BXPjOiK3siK3saKg8aRP%2BaS3mVKDsaUPwaUvt"
+            },
+            {
+                "key": "ctf_june",
+                "value": "1683616182042##iK3waKg%3DWwPwawPwasfDWDPAWKETWPa8VRfIXKXAa2P%3DEPEDXsWDVRfhaR2OiK3siK3saKg8aRP%2BaS3NaRXmauPwaUvt"
+            },
+            {
+                "key": "cs_june",
+                "value": "2092c3474765f5153e1b02951ba942083e446f5d09e5e290ec392712bd27ecf68b51ab1a49ddf5a89e571b86053421f6116fe4c54b6478496b7e484f9944c42fb17c80df7eee7c02a9c1a6a5b97c11791330134d7d2a70d1b0e692f98bc6dfe25a737ae180251ef5be23400b098dd8ca"
+            },
+            {
+                "key": "cid",
+                "value": "['22756']"
+            },
+            {
+                "key": "name",
+                "value": "['dom_complete_time']"
+            },
+            {
+                "key": "type",
+                "value": "['addTime']"
+            },
+            {
+                "key": "time",
+                "value": "['10945']"
+            }
+        ]
+    },
+    {
+        "Domain": "m.flight.qunar.com",
+        "Path": "/gw/m/market/log",
+        "Params": [
+            {
+                "key": "QN241",
+                "value": ""
+            },
+            {
+                "key": "QN1",
+                "value": "00008100413858995d48acd0"
+            },
+            {
+                "key": "QN290",
+                "value": "Mz98c2NTc2NGM4ODEyYjI1ZiUyQzYwMDAxNTY4JTJDQzU3MDglMkNDNENENEI3OC1BOUUzLTYwQjEtOEZERC0xQzVCNEQ3REJGMjElMkMxMDAxMCUyQzcxZjJlY2E2LTY0NTYtNDIwZC1iYzVjLWUzNGQ5YmExMGJiMSUyQzM3NjU3NjRjODgxMmIyNWY="
+            },
+            {
+                "key": "_q",
+                "value": "U.kuqblxb6042"
+            },
+            {
+                "key": "_v",
+                "value": "grTFpr2i5Wk67z3g8zhxNDmVTsTDWVW2PYnaQJgdGsiuz0PP4devRRBqGL9iRagYinQTdQCBLM6Y8Wt4gEqfSX0t9_YBalOZN3V58XdB1lpeNBv9SLKSKWZV9fxI6K4Ol4oCzl2xSX_8lksD2cvoW59catS9omJg6th77_kQyT7j"
+            },
+            {
+                "key": "_t",
+                "value": "28841082"
+            },
+            {
+                "key": "_s",
+                "value": "s_WU7ABODOUROMGMNU6H4REPD2AI"
+            },
+            {
+                "key": "csrfToken",
+                "value": "MAIscXvu0vYHP15"
+            },
+            {
+                "key": "QN48",
+                "value": "0000c3802f1058995f388a26"
+            },
+            {
+                "key": "QN300",
+                "value": "organic"
+            },
+            {
+                "key": "ctt_june",
+                "value": "1683616182042##iK3was28ahPwawPwasP8asGDWDXAXSX%2BWPGTWRawaPXNXSEhEKERX%3DP%2BXPjOiK3siK3saKg8aRP%2BaS3mVKDsaUPwaUvt"
+            },
+            {
+                "key": "ctf_june",
+                "value": "1683616182042##iK3waKg%3DWwPwawPwasfDWDPAWKETWPa8VRfIXKXAa2P%3DEPEDXsWDVRfhaR2OiK3siK3saKg8aRP%2BaS3NaRXmauPwaUvt"
+            },
+            {
+                "key": "cs_june",
+                "value": "b261937a16a4a0575b92f79043b6754bb24ad6a0de58b64cc659d3fd3307cbbb444455b38eded2b88d3ded3161dcc6db3817843974340e3f39e949d442e82ce0b17c80df7eee7c02a9c1a6a5b97c11796dd7953a81913b506fbe061af71f93ce5a737ae180251ef5be23400b098dd8ca"
+            },
+            {
+                "key": "p",
+                "value": "['h5']"
+            },
+            {
+                "key": "logType",
+                "value": "['ue']"
+            },
+            {
+                "key": "c",
+                "value": "['{\"_q\":\"U.kuqblxb6042\",\"_v\":\"grTFpr2i5Wk67z3g8zhxNDmVTsTDWVW2PYnaQJgdGsiuz0PP4devRRBqGL9iRagYinQTdQCBLM6Y8Wt4gEqfSX0t9_YBalOZN3V58XdB1lpeNBv9SLKSKWZV9fxI6K4Ol4oCzl2xSX_8lksD2cvoW59catS9omJg6th77_kQyT7j\",\"_t\":\"28841082\",\"_s\":\"\",\"_i\":\"\",\"bd_origin\":\"\",\"hd_origin\":\"\",\"fastUserId\":\"\",\"andid\":\"\",\"newLog\":1,\"model\":\"\",\"osVersion\":\"9\",\"platform\":\"adr\"}']"
+            },
+            {
+                "key": "b",
+                "value": "['[{\"action\":\"cus\",\"info\":{\"uid\":\"MDAwMGMzODAyZjEwNTg5OTVmMzg4YTI2\",\"user_name\":\"U.kuqblxb6042\",\"bd_source\":\"\",\"action_time\":1700572292517,\"cookie\":\"QN241=; QN1=00008100413858995d48acd0; QN290=Mz98c2NTc2NGM4ODEyYjI1ZiUyQzYwMDAxNTY4JTJDQzU3MDglMkNDNENENEI3OC1BOUUzLTYwQjEtOEZERC0xQzVCNEQ3REJGMjElMkMxMDAxMCUyQzcxZjJlY2E2LTY0NTYtNDIwZC1iYzVjLWUzNGQ5YmExMGJiMSUyQzM3NjU3NjRjODgxMmIyNWY=; _q=U.kuqblxb6042; _v=grTFpr2i5Wk67z3g8zhxNDmVTsTDWVW2PYnaQJgdGsiuz0PP4devRRBqGL9iRagYinQTdQCBLM6Y8Wt4gEqfSX0t9_YBalOZN3V58XdB1lpeNBv9SLKSKWZV9fxI6K4Ol4oCzl2xSX_8lksD2cvoW59catS9omJg6th77_kQyT7j; _t=28841082; csrfToken=MAIscXvu0vYHP15; QN48=0000c3802f1058995f388a26; QN300=organic; ctt_june=1683616182042##iK3was28ahPwawPwasP8asGDWDXAXSX%2BWPGTWRawaPXNXSEhEKERX%3DP%2BXPjOiK3siK3saKg8aRP%2BaS3mVKDsaUPwaUvt; ctf_june=1683616182042##iK3waKg%3DWwPwawPwasfDWDPAWKETWPa8VRfIXKXAa2P%3DEPEDXsWDVRfhaR2OiK3siK3saKg8aRP%2BaS3NaRXmauPwaUvt; cs_june=b261937a16a4a0575b92f79043b6754bb24ad6a0de58b64cc659d3fd3307cbbb444455b38eded2b88d3ded3161dcc6db3817843974340e3f39e949d442e82ce0b17c80df7eee7c02a9c1a6a5b97c11796dd7953a81913b506fbe061af71f93ce5a737ae180251ef5be23400b098dd8ca\",\"union_id\":\"\",\"from_url\":\"https://m.flight.qunar.com/shark/active/e4a03a3fb3514d459990cb30b7329488\",\"to_url\":\"https://m.flight.qunar.com/shark/active/e4a03a3fb3514d459990cb30b7329488\",\"user_type\":\"appH5\",\"project_id\":\"MyVoucherNew\",\"activity_id\":\"MyVoucherNew\",\"page_id\":\"normal_active_22756\",\"action_type\":\"pageview\",\"page_depth\":\"\",\"type\":\"\",\"button_id\":\"\",\"button_name\":\"\",\"QN1\":\"00008100413858995d48acd0\",\"logdata\":{\"0\":\"p\",\"1\":\"a\",\"2\":\"g\",\"3\":\"e\",\"4\":\"v\",\"5\":\"i\",\"6\":\"e\",\"7\":\"w\"},\"encrypt\":true}}]']"
+            }
+        ]
+    }
+]

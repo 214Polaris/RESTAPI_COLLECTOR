@@ -1,0 +1,2136 @@
+[
+    {
+        "Domain": "lego.zhuanzhuan.com",
+        "Path": "/page/mark-p",
+        "Params": [
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": ""
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "PPU",
+                "value": ""
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            }
+        ]
+    },
+    {
+        "Domain": "lego.zhuanzhuan.com",
+        "Path": "/page/mark",
+        "Params": [
+            {
+                "key": "cookieid",
+                "value": "zz_cookieid"
+            },
+            {
+                "key": "pagetype",
+                "value": "ZZ_STREAM_DETAIL_PAGE"
+            },
+            {
+                "key": "actiontype",
+                "value": "HTML_SHOW"
+            },
+            {
+                "key": "appid",
+                "value": "ZZ"
+            },
+            {
+                "key": "backup",
+                "value": "{}"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": ""
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "PPU",
+                "value": ""
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/v2/zzinfoshow/getfeedflowinfo",
+        "Params": [
+            {
+                "key": "pageNum",
+                "value": "1"
+            },
+            {
+                "key": "pageSize",
+                "value": "10"
+            },
+            {
+                "key": "feedFlowType",
+                "value": "HomePageContinent"
+            },
+            {
+                "key": "lastTime",
+                "value": "1700571854807"
+            },
+            {
+                "key": "actionType",
+                "value": "0"
+            },
+            {
+                "key": "filterModuleServerParamsInput",
+                "value": "{\"filterModuleParam\":{\"version\":\"1.3.0\",\"appType\":\"1\"},\"searchScene\":\"0\",\"scene\":\"2\"}"
+            },
+            {
+                "key": "feedKeywords",
+                "value": "{\"id\":\"1\",\"tabCateId\":\"0\",\"pgCates\":[{\"pgCateId\":101,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":119,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000016,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000186,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000170,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":107,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":111,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":114,\"pgBrandId\":0,\"pgModelId\":0},{\"pgCateId\":1100000354,\"pgBrandId\":0,\"pgModelId\":0}],\"switcherFilter\":\"0\"}"
+            },
+            {
+                "key": "zpm",
+                "value": "1^G1001^108^0^\u63a8\u8350"
+            },
+            {
+                "key": "indexDynamicFlow",
+                "value": "4"
+            },
+            {
+                "key": "b2cInfoCardAB",
+                "value": "B"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "sts",
+                "value": "1700570155306"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "seq",
+                "value": "72"
+            },
+            {
+                "key": "support64bit",
+                "value": "1"
+            },
+            {
+                "key": "is64bit",
+                "value": "1"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "Domain": "pic3.zhuanstatic.com",
+        "Path": "/zhuanzh/3ba93ba2-e419-47b0-82ef-19094d569302.png",
+        "Params": [
+            {
+                "key": "w",
+                "value": "275"
+            },
+            {
+                "key": "h",
+                "value": "71"
+            },
+            {
+                "key": "t",
+                "value": "5"
+            },
+            {
+                "key": "qa",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "Domain": "pic5.zhuanstatic.com",
+        "Path": "/zhuanzh/a0d308a0-bb0b-4031-b93b-8aef36706f55.png",
+        "Params": [
+            {
+                "key": "t",
+                "value": "5"
+            },
+            {
+                "key": "qa",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "Domain": "pic1.zhuanstatic.com",
+        "Path": "/zhuanzh/1dd3e71f-ab25-4306-b741-3abc1940b6e1.jpg",
+        "Params": [
+            {
+                "key": "t",
+                "value": "5"
+            },
+            {
+                "key": "qa",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "Domain": "pic6.zhuanstatic.com",
+        "Path": "/zhuanzh/192183be-3cd2-43cd-943b-32be8606598b.png",
+        "Params": [
+            {
+                "key": "t",
+                "value": "5"
+            },
+            {
+                "key": "qa",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/trade/common_pages/envelope-list",
+        "Params": [
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "tt",
+                "value": "1700571979721"
+            },
+            {
+                "key": "zzv",
+                "value": "10.25.1"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "refsectionId",
+                "value": "101"
+            },
+            {
+                "key": "refsortId",
+                "value": "0"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_apppersonalcenter"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fact.zhuanzhuan.com%2Fplatform%2Fzz-platform-pages%2Fmy-collection"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22J2963%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Ftrade%2Forder_list_v3%2Fbuy.html%22%2C%22time%22%3A1700571955697%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252FnewCycle%252Findex.html%2523%252F%22%2C%22time%22%3A1700571972232%7D%5D"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getmhostlist",
+        "Params": [
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "sts",
+                "value": "0"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "seq",
+                "value": "8"
+            },
+            {
+                "key": "support64bit",
+                "value": "1"
+            },
+            {
+                "key": "is64bit",
+                "value": "1"
+            },
+            {
+                "key": "mixValidate",
+                "value": "['1']"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/npsapi/getbaichuanentrance",
+        "Params": [
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "refsectionId",
+                "value": "101"
+            },
+            {
+                "key": "refsortId",
+                "value": "0"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_apppersonalcenter"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Ftrade%2Forder_list_v3%2Fbuy.html%22%2C%22time%22%3A1700571955697%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252FnewCycle%252Findex.html%2523%252F%22%2C%22time%22%3A1700571972232%7D%5D"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "expires",
+                "value": "1700658381347"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            },
+            {
+                "key": "questionnaireId",
+                "value": "['1647869651767530496']"
+            },
+            {
+                "key": "componentType",
+                "value": "['2']"
+            },
+            {
+                "key": "extend",
+                "value": "['{\"pageName\":\"\u6211\u7684\u7ea2\u5305\"}']"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getMyRedList",
+        "Params": [
+            {
+                "key": "queryExpireCount",
+                "value": "true"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "refsectionId",
+                "value": "101"
+            },
+            {
+                "key": "refsortId",
+                "value": "0"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_apppersonalcenter"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Ftrade%2Forder_list_v3%2Fbuy.html%22%2C%22time%22%3A1700571955697%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252FnewCycle%252Findex.html%2523%252F%22%2C%22time%22%3A1700571972232%7D%5D"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "expires",
+                "value": "1700658381347"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getMyCouponList",
+        "Params": [
+            {
+                "key": "pageNumber",
+                "value": "1"
+            },
+            {
+                "key": "pageSize",
+                "value": "10"
+            },
+            {
+                "key": "status",
+                "value": "1"
+            },
+            {
+                "key": "redVersion",
+                "value": "V2_POSTAGE_RED"
+            },
+            {
+                "key": "redSource",
+                "value": "2"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "refsectionId",
+                "value": "101"
+            },
+            {
+                "key": "refsortId",
+                "value": "0"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_apppersonalcenter"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Ftrade%2Forder_list_v3%2Fbuy.html%22%2C%22time%22%3A1700571955697%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252FnewCycle%252Findex.html%2523%252F%22%2C%22time%22%3A1700571972232%7D%5D"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Fcommon_pages%2Fenvelope-list"
+            },
+            {
+                "key": "from",
+                "value": "undefined^undefined^undefined^undefined^0"
+            },
+            {
+                "key": "expires",
+                "value": "1700658381347"
+            },
+            {
+                "key": "referrerObj",
+                "value": "{\"refpagetype\":\"V5093\",\"refpagequery\":\"\",\"refsubpageID\":\"\",\"refsectionId\":\"\",\"refsortId\":\"\"}"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/favicon.ico",
+        "Params": [
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": ""
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "PPU",
+                "value": ""
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/system/ZZaftersale/allAfterSaleList",
+        "Params": [
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "isPreRender",
+                "value": "1"
+            },
+            {
+                "key": "isGoBack",
+                "value": "1"
+            },
+            {
+                "key": "tt",
+                "value": "1700571895358"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "Safe-PPU",
+                "value": ""
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "PPU",
+                "value": ""
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Ftrade%2Forder_list_v3%2Fbuy.html"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22J8874%22%2C%22refpagequery%22%3A%22isPreRender%3D1%26isGoBack%3D1%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/v2/zzinfoshow/mycontinentfeedkeywords",
+        "Params": [
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "sts",
+                "value": "1700570155306"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "seq",
+                "value": "71"
+            },
+            {
+                "key": "support64bit",
+                "value": "1"
+            },
+            {
+                "key": "is64bit",
+                "value": "1"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/getsearchconfigdata",
+        "Params": [
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "sts",
+                "value": "1700570155306"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "seq",
+                "value": "60"
+            },
+            {
+                "key": "support64bit",
+                "value": "1"
+            },
+            {
+                "key": "is64bit",
+                "value": "1"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "Domain": "pic1.zhuanstatic.com",
+        "Path": "/zhuanzh/a0b6e981-7cea-470b-a2bb-e30425fa12e5.png",
+        "Params": [
+            {
+                "key": "t",
+                "value": "5"
+            },
+            {
+                "key": "qa",
+                "value": "90"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zz/transfer/query",
+        "Params": [
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "sts",
+                "value": "1700570155306"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "seq",
+                "value": "113"
+            },
+            {
+                "key": "support64bit",
+                "value": "1"
+            },
+            {
+                "key": "is64bit",
+                "value": "1"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Version",
+                "value": "1"
+            },
+            {
+                "key": "Domain",
+                "value": "zhuanzhuan.com"
+            },
+            {
+                "key": "Path",
+                "value": "/"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            }
+        ]
+    },
+    {
+        "Domain": "m.zhuanzhuan.com",
+        "Path": "/platform/newCycle/index.html",
+        "Params": [
+            {
+                "key": "from",
+                "value": "c2c_new_home_recommend-tab2"
+            },
+            {
+                "key": "needHideHead",
+                "value": "3"
+            },
+            {
+                "key": "personalizeTabMarket",
+                "value": "0"
+            },
+            {
+                "key": "tt",
+                "value": "1700571947855"
+            },
+            {
+                "key": "zzv",
+                "value": "10.25.1"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Fplatform%2Fplatform_pages_v2%2Fgood-price-zone"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22U1205%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2Fzzspampages%2Findex.html%23%2Fslidecaptcha%22%2C%22time%22%3A1700571937360%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252Fplatform_pages_v2%252Fgood-price-zone%22%2C%22time%22%3A1700571944534%7D%5D"
+            }
+        ]
+    },
+    {
+        "Domain": "feconf.zhuanzhuan.com",
+        "Path": "/feconf/platform",
+        "Params": [
+            {
+                "key": "keys",
+                "value": "c2c-home-image-position"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2Fzzspampages%2Findex.html%23%2Fslidecaptcha%22%2C%22time%22%3A1700571937360%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252Fplatform_pages_v2%252Fgood-price-zone%22%2C%22time%22%3A1700571944534%7D%5D"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Fplatform%2FnewCycle%2Findex.html%23%2Fhome"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22I1584%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getFeedFlowInformation",
+        "Params": [
+            {
+                "key": "request",
+                "value": "{\"feedFlowType\":\"homeRecommend\",\"rstmark\":1700571949255,\"lastTime\":1700571950285,\"pageNum\":1,\"pageSize\":10}"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2Fzzspampages%2Findex.html%23%2Fslidecaptcha%22%2C%22time%22%3A1700571937360%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252Fplatform_pages_v2%252Fgood-price-zone%22%2C%22time%22%3A1700571944534%7D%5D"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Fplatform%2FnewCycle%2Findex.html%23%2Fhome"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22I1584%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getNewC2cHomeTabConf",
+        "Params": [
+            {
+                "key": "tabType",
+                "value": "recommend"
+            },
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2Fzzspampages%2Findex.html%23%2Fslidecaptcha%22%2C%22time%22%3A1700571937360%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252Fplatform_pages_v2%252Fgood-price-zone%22%2C%22time%22%3A1700571944534%7D%5D"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Fplatform%2FnewCycle%2Findex.html%23%2Fhome"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22I1584%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            }
+        ]
+    },
+    {
+        "Domain": "app.zhuanzhuan.com",
+        "Path": "/zzopen/c2c_op_logic/getPersonalizedRecommendationSwitch",
+        "Params": [
+            {
+                "key": "idzz",
+                "value": "CigAhGVcpCx1QVxgGD5UAg=="
+            },
+            {
+                "key": "app-city",
+                "value": ""
+            },
+            {
+                "key": "app-apn",
+                "value": "WIFI"
+            },
+            {
+                "key": "lon",
+                "value": "0.0"
+            },
+            {
+                "key": "networktype",
+                "value": "WIFI"
+            },
+            {
+                "key": "app-resolution",
+                "value": "1080_2160"
+            },
+            {
+                "key": "osv",
+                "value": "28"
+            },
+            {
+                "key": "isoffline",
+                "value": "1"
+            },
+            {
+                "key": "app-os",
+                "value": "android"
+            },
+            {
+                "key": "t",
+                "value": "15"
+            },
+            {
+                "key": "v",
+                "value": "10.25.1"
+            },
+            {
+                "key": "tk",
+                "value": "F51DEDE7C9C07FC306256D3B3E419FB8"
+            },
+            {
+                "key": "model",
+                "value": "Pixel+3"
+            },
+            {
+                "key": "brand",
+                "value": "google"
+            },
+            {
+                "key": "app-osv",
+                "value": "28"
+            },
+            {
+                "key": "lat",
+                "value": "0.0"
+            },
+            {
+                "key": "channelid",
+                "value": "market_913"
+            },
+            {
+                "key": "id58",
+                "value": "CigAdmVcpDq5SjBbF6uSAg=="
+            },
+            {
+                "key": "officialVerifyUnifyAB",
+                "value": "C"
+            },
+            {
+                "key": "brandUpgradeAB",
+                "value": "0"
+            },
+            {
+                "key": "zz_t",
+                "value": "15"
+            },
+            {
+                "key": "h5checkin_channel",
+                "value": "h5plpages_h5checkin_zzapp"
+            },
+            {
+                "key": "uid",
+                "value": "1726938504325489664"
+            },
+            {
+                "key": "PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "Safe-PPU",
+                "value": "TT=e624641a1a3ddbf1c4ce398e4720af74b634dd8b&UID=1726938504325489664&CT=1700570251745&SF=ZHUANZHUAN&SCT=1700573851745&V=2&ET=1703162251745&AP=15"
+            },
+            {
+                "key": "app-clientip",
+                "value": "192.168.137.190"
+            },
+            {
+                "key": "zzVisitStack",
+                "value": "%5B%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%2Fsystem%2Fzzspampages%2Findex.html%23%2Fslidecaptcha%22%2C%22time%22%3A1700571937360%7D%2C%7B%22type%22%3A%22onShow%22%2C%22href%22%3A%22m.zhuanzhuan.com%252Fplatform%252Fplatform_pages_v2%252Fgood-price-zone%22%2C%22time%22%3A1700571944534%7D%5D"
+            },
+            {
+                "key": "JSESSIONID",
+                "value": "54721C027DA8B5F8FD8AB50247E02778"
+            },
+            {
+                "key": "referrerObj",
+                "value": "%7B%22refpagetype%22%3A%22I1584%22%2C%22refpagequery%22%3A%22%22%2C%22refsubpageID%22%3A%22%22%2C%22refsectionId%22%3A%22%22%2C%22refsortId%22%3A%22%22%7D"
+            },
+            {
+                "key": "zzreferer",
+                "value": "https%3A%2F%2Fm.zhuanzhuan.com%2Fbiz%2Fbizspu_v2%2Findex.html%23%2Fdetail"
+            }
+        ]
+    }
+]

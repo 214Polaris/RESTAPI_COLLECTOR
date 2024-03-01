@@ -1,0 +1,288 @@
+[
+    {
+        "Domain": "arms-retcode.aliyuncs.com",
+        "Path": "/r.png",
+        "Params": [
+            {
+                "key": "t",
+                "value": "api"
+            },
+            {
+                "key": "times",
+                "value": "1"
+            },
+            {
+                "key": "page",
+                "value": "unknown"
+            },
+            {
+                "key": "tag",
+                "value": "rxpi.api"
+            },
+            {
+                "key": "environment",
+                "value": "prod"
+            },
+            {
+                "key": "begin",
+                "value": "1700572527165"
+            },
+            {
+                "key": "api",
+                "value": "rxpi.fn.result"
+            },
+            {
+                "key": "success",
+                "value": "1"
+            },
+            {
+                "key": "code",
+                "value": "RXPI_API_LOG"
+            },
+            {
+                "key": "time",
+                "value": "1"
+            },
+            {
+                "key": "traceId",
+                "value": "null"
+            },
+            {
+                "key": "c1",
+                "value": "\u5f53\u524d\u6ca1\u6709\u76f8\u5173\u8ba2\u5355"
+            },
+            {
+                "key": "c2",
+                "value": "wechat|android|other"
+            },
+            {
+                "key": "c3",
+                "value": ""
+            },
+            {
+                "key": "sampling",
+                "value": "1"
+            },
+            {
+                "key": "uid",
+                "value": "rxpi"
+            },
+            {
+                "key": "pid",
+                "value": "haa3j9plpi@e98c35c59b2b577"
+            },
+            {
+                "key": "_v",
+                "value": "1.8.104"
+            },
+            {
+                "key": "sid",
+                "value": "rxpisessionchannel"
+            },
+            {
+                "key": "_bx-m",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "Domain": "g.alicdn.com",
+        "Path": "/trip/rx-redpacket-coupon/2.8.7/",
+        "Params": [
+            {
+                "key": "?rx-redpacket-coupon-commons.css,pages/list/index.css",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "Domain": "wgo.mmstat.com",
+        "Path": "/three-finger.h5.boot-init",
+        "Params": [
+            {
+                "key": "gmkey",
+                "value": "OTHER"
+            },
+            {
+                "key": "gokey",
+                "value": "url=https%3A%2F%2Fproxy.fzwxxcx.cn%2Fapp%2Ftrip%2Frx-redpacket-coupon%2Fpages%2Flist%3Fttid%3D12wechat000002616%26needLogin%3Dtrue%26_fz_web_base_cache_key%3Dz2e1hegszykxnujp4kcz1700572537535%26pre_pageVersion%3D4.2.18%26_fm_webview_first_%3D1%26_fm_real_host_%3Dmarket.m.taobao.com%26PAGE_ENV%3Drelease%26fpt%3Dwxscene(1089)&url_pre=https%3A%2F%2Fpassport.fzwxxcx.cn%2F&title=%E7%BA%A2%E5%8C%85%E4%BC%98%E6%83%A0%E5%88%B8&bootVersion=1.1.1&buInfo=%257B%2522BU%2522%253A%2522%25E9%25A3%259E%25E7%258C%25AA%2522%257D"
+            },
+            {
+                "key": "ts",
+                "value": "1700572543239"
+            },
+            {
+                "key": "cna",
+                "value": "1CDjHagzPykCATr5cC+urCRJ"
+            },
+            {
+                "key": "sca",
+                "value": "33fe8132"
+            },
+            {
+                "key": "cnaui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "aui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "atpsida",
+                "value": "b7194994a91c11b2ee5d1849_1700569473_1"
+            }
+        ]
+    },
+    {
+        "Domain": "log.mmstat.com",
+        "Path": "/eg.js",
+        "Params": [
+            {
+                "key": "cna",
+                "value": "1CDjHagzPykCATr5cC+urCRJ"
+            },
+            {
+                "key": "sca",
+                "value": "33fe8132"
+            },
+            {
+                "key": "cnaui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "aui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "atpsida",
+                "value": "b7194994a91c11b2ee5d1849_1700569473_1"
+            }
+        ]
+    },
+    {
+        "Domain": "fourier.taobao.com",
+        "Path": "/ts",
+        "Params": [
+            {
+                "key": "url",
+                "value": "https://fcecore.fliggy.com/getStaticDataById?dataId=17331&callback=jsonp_1700572543680_3736"
+            },
+            {
+                "key": "token",
+                "value": "BPv7jbYXGl5U6ybqcJeqZVNlgd1lUA9SeQ2Vq-241_oRTBsudSCfohmKYuoCvmdK"
+            },
+            {
+                "key": "cna",
+                "value": ""
+            },
+            {
+                "key": "ext",
+                "value": "0"
+            }
+        ]
+    },
+    {
+        "Domain": "fcecore.fliggy.com",
+        "Path": "/getStaticDataById",
+        "Params": [
+            {
+                "key": "dataId",
+                "value": "17331"
+            },
+            {
+                "key": "callback",
+                "value": "jsonp_1700572543680_3736"
+            }
+        ]
+    },
+    {
+        "Domain": "login.taobao.com",
+        "Path": "/jump",
+        "Params": [
+            {
+                "key": "group",
+                "value": "tao"
+            },
+            {
+                "key": "target",
+                "value": "https://fcecore.fliggy.com/getStaticDataById?tbpm=1&dataId=17331&callback=jsonp_1700572543680_3736"
+            }
+        ]
+    },
+    {
+        "Domain": "pass.fliggy.com",
+        "Path": "/add",
+        "Params": [
+            {
+                "key": "cookie2",
+                "value": "1408c061db9b6fc7d615365e7f82a7ad"
+            },
+            {
+                "key": "t",
+                "value": "4eceb8ea4e103af82b9fad7b5d70c518"
+            },
+            {
+                "key": "_tb_token_",
+                "value": "eedb5edb33333"
+            },
+            {
+                "key": "tmsc",
+                "value": "1700570859452000"
+            },
+            {
+                "key": "opi",
+                "value": "33.80.69.113"
+            },
+            {
+                "key": "pacc",
+                "value": "2v4Jkba58TJDcaCqN7hKBQ=="
+            },
+            {
+                "key": "target",
+                "value": "https://fcecore.fliggy.com/getStaticDataById?tbpm=1&dataId=17331&callback=jsonp_1700572543680_3736"
+            }
+        ]
+    },
+    {
+        "Domain": "wgo.mmstat.com",
+        "Path": "/tbtrip.1000.8",
+        "Params": [
+            {
+                "key": "cache",
+                "value": "1700572545826"
+            },
+            {
+                "key": "gmkey",
+                "value": "CLK"
+            },
+            {
+                "key": "gokey",
+                "value": "spm=181.10444398&isOff=0&keepword=1&guid=1700572542704&nickName=1CDjHagzPykCATr5cC%2BurCRJ&tracVer=0.6.4&projVer=2.8.7&gitRepos=rx-redpacket-coupon&netstat=fail&dpr=2.75&sendTime=1700572545822&sendIndex=0&pushVer=&baseVer=0.6.0&perf=%7B%22redirect%22%3A0%2C%22appCache%22%3A0%2C%22dns%22%3A0%2C%22tcp%22%3A534%2C%22request%22%3A243%2C%22response%22%3A6%2C%22processing%22%3A3082%2C%22onLoad%22%3A8%2C%22fetchStart%22%3A1700572541867%2C%22domLoading%22%3A1700572542685%2C%22_domReady%22%3A982%2C%22_loaded%22%3A3090%2C%22_network%22%3A796%2C%22totalJSHeapSize%22%3A91700000%2C%22jsHeapSizeLimit%22%3A1000000000%7D&logs=%5B%7B%22name%22%3A%22headerComplete%22%2C%22st%22%3A156%2C%22tp%22%3A%22headerComplete%22%7D%2C%7B%22name%22%3A%22domComplete%22%2C%22st%22%3A966%2C%22tp%22%3A%22domComplete%22%7D%2C%7B%22name%22%3A%22loadComplete%22%2C%22st%22%3A3071%2C%22tp%22%3A%22loadComplete%22%7D%5D&spm-cnt=181.10444398.0.0"
+            },
+            {
+                "key": "spm-cnt",
+                "value": "181.10444398.0.0"
+            },
+            {
+                "key": "cna",
+                "value": "1CDjHagzPykCATr5cC+urCRJ"
+            },
+            {
+                "key": "sca",
+                "value": "33fe8132"
+            },
+            {
+                "key": "cnaui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "aui",
+                "value": "2211508571852"
+            },
+            {
+                "key": "atpsida",
+                "value": "b7194994a91c11b2ee5d1849_1700569473_1"
+            }
+        ]
+    }
+]
